@@ -24,9 +24,14 @@
 }
 
 #wrapper {
-  max-width: 75vw;
   margin-left: auto;
   margin-right: auto;
+}
+
+@media (min-width: 960px) {
+  #wrapper {
+    width: 75vw;
+  }
 }
 </style>
 

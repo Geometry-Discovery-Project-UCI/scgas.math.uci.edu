@@ -2,7 +2,7 @@ const config = require("./src/config.json");
 
 function romanize(num) {
   if (isNaN(num)) return NaN;
-  var digits = String(+num).split(""),
+  let digits = String(+num).split(""),
     key = [
       "",
       "C",
