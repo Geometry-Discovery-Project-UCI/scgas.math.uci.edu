@@ -22,5 +22,91 @@
         "Jeff Streets",
         "Jeff Viaclovsky",
         "Xiangwen Zhang"
-    ]
+    ],
+    "location": "Engineering Lecture Hall 100",
+    "schedule": {
+        "firstDay": [
+            {
+                "time": "10:00AM - 11:00AM",
+                "activity": "Registration",
+                "isSpeech": false
+            },
+            {
+                "time": "11:00AM - 12:00PM",
+                "activity": "Camillo De Lellis",
+                "isSpeech": true,
+                "title": "Nonclassical minimizing oriented surfaces",
+                "abstract": "Consider a smooth closed simple curve $\\Gamma$ in a given Riemannian manifold. Following the classical work of Douglas and Rado it can be shown that, given any natural numberg, there is an oriented surface which bounds $\\Gamma$ and has least area among all surfaces with genus at most g. Obviously as we increasegthe area of the corresponding minimizer can only decrease. Ifthe ambient manifold has dimension 3 and the curve is sufficiently regular, works of De Giorgi and Hardt and Simon guarantee that such number stabilizes, in other words theabsolute (oriented) minimizer has finite topology. In a joint work with Guido De Philippis and Jonas Hirsch we show that the latter property might fail in higher codimension even ifthe curve is $C^\\infty$. Some results point instead to its validity for analytic curves (and analytic ambient metrics), confirming a conjecture of Brian White."
+            },
+            {
+                "time": "12:00PM - 1:30PM",
+                "activity": "Lunch",
+                "isSpeech": false
+            },
+            {
+                "time": "1:30PM - 2:30PM",
+                "activity": "Jian Song",
+                "isSpeech": true,
+                "title": "The space of Kahler-Einstein manifolds of negative scalar curvature",
+                "abstract": "Let K(n,V) be the set of n-dimensional compact Kahler-Einstein manifolds (X, g) with scalar curvature equal to -n and volume bounded above by V. We prove that any sequence in K(n,V) converge in pointed Gromov-Hausdorff topology, possibly after passing to a subsequence, to a finite union of complete Kahler-Einstein metric spaces without loss of volume. The convergence is smooth off a closed singular set of Hausdorff dimension no greater than 2n − 4, and the limiting metric space is biholomorphic to an n-dimensional semi-log canonical model with its non log terminal locus of complex dimension no greater than n-1 removed. Our result is a high dimensional generalization for the compactness of constant curvature metrics on Riemann surfaces of genus greater than one. We also apply our results to study Weil-Petersson metrics for the moduli space of such Kahler-Einstein manifolds."
+            },
+            {
+                "time": "2:30PM - 3:00PM",
+                "activity": "Break",
+                "isSpeech": false
+            },
+            {
+                "time": "3:00PM - 4:00PM",
+                "activity": "Jimmy Petean",
+                "isSpeech": true,
+                "title": "Nodal solutions of the Yamabe equation on the sphere",
+                "abstract": "The positive solutions of the Yamabe equation on the sphere (or in Euclidean space) are well understood. They are all equivalent and minimize the energy. The family of nodal (sign-changing) solutions is much more complicated. There are many constructions of such solutions; most of them produce solutions with large energy but recently there have been some results regarding low energy solutions. In the talk I will discuss joint work with Juan Carlos Fernandez on the construction of nodal solutions. Given any isoparametric hypersurface M on the sphere and a positive integer k we prove the existence of a solution whose nodal set is given by k copies of M. The solutions are obtained by reducing the equation to an ordinary differential equation and their energies can be computed numerically."
+            },
+            {
+                "time": "4:00PM - 4:30PM",
+                "activity": "Break",
+                "isSpeech": false
+            },
+            {
+                "time": "4:30PM - 5:30PM",
+                "activity": "Eugenia Malinnikova",
+                "isSpeech": true,
+                "title": "Estimate for the volume of zero sets of Laplace eigenfunctions on domains with smooth boundary",
+                "abstract": "Let D be a domain in the n-dimensional Euclidean space with a sufficiently smooth, but not real-analytic boundary. We consider the Dirichlet Laplace eigenfunctions in D and estimate the (n-1)-dimensional volume of the zero set of the eigenfunction from above by a constant times the square root of its eigenvalues. The estimate confirms Yau’s conjecture for this case. The result for real-analytic boundaries goes back to work of Donneli and Fefermann in 1990. The talk is based on a joint work with A. Logunov, N. Nadirashvili and F. Nazarov."
+            }
+        ],
+        "secondDay": [
+            {
+                "time": "9:00AM - 10:00AM",
+                "activity": "John Lott",
+                "isSpeech": true,
+                "title": "Comparison geometry of holomorphic bisectional curvature, and limit spaces",
+                "abstract": "I will discuss the geometry of Kaehler manifolds with a lower bound on the holomorphic bisectional curvature, along with their pointed Gromov-Hausdorff limits. Some of the proofs use Ricci flow."
+            },
+            {
+                "time": "10:00AM - 10:20AM",
+                "activity": "Break",
+                "isSpeech": false
+            },
+            {
+                "time": "10:20AM - 11:20AM",
+                "activity": "Antoine Song",
+                "isSpeech": true,
+                "title": "Morse index, Betti numbers and singular set of bounded area minimal hypersurfaces",
+                "abstract": "The development of min-max theory in recent years led to the construction of infinitely many minimal hypersurfaces in any given closed Riemannian manifold of dimension at most 7. However, the available analytical constructions do not reveal much about the geometry and topology of these minimal hypersurfaces. In order to better understand these objects, we need to study the relationship between different measures of complexities. We will explain how, for general minimal hypersurfaces with uniformly bounded area, the topology and the singular set can be controlled by the Morse index, and how we can use that to study the sequence of minimal surfaces constructed by min-max theory in a given closed 3-manifold. Some natural open questions will be introduced."
+            },
+            {
+                "time": "11:20AM - 11:30AM",
+                "activity": "Break",
+                "isSpeech": false
+            },
+            {
+                "time": "11:30AM - 12:30PM",
+                "activity": "Clifford Taubes",
+                "isSpeech": true,
+                "title": "Z/2 harmonic 1-forms and the Kapustin-Witten equations",
+                "abstract": "Z/2 harmonic 1-forms are closed and coclosed 1- forms with values in a real line bundle that is defined on the complement of a cxdimension 2 subvariety of a Riemannian manifold with their norms being zero on this same subvariety. These objects are now known to appear (in dimensions 2-4) in diverse contexts involving SL(2,C) gauge theories. I hope to tell you a story about these objects and the role that they might be playing with regards to the differential topology of low dimensional manifolds."
+            }
+        ]
+    }
 }
