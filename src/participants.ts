@@ -1,52 +1,5 @@
 import { Participant, Institute } from "@/types/index";
 
-export const CTBA: Participant = {
-  name: "TBA",
-  institute: Institute.UNKNOWN,
-};
-
-export const CAMILLO_DE_LELLIS: Participant = {
-  name: "Camillo De Lellis",
-  link: "http://www.math.ias.edu/delellis/node/1",
-  institute: Institute.IAS_PRINCETON,
-};
-
-export const JOHN_LOTT: Participant = {
-  name: "John Lott",
-  link: "https://math.berkeley.edu/~lott/",
-  institute: Institute.UC_BERKELEY,
-};
-
-export const EUGENIA_MALINNIKOVA: Participant = {
-  name: "Eugenia Malinnikova",
-  link: "https://mathematics.stanford.edu/people/eugenia-malinnikova",
-  institute: Institute.STANFORD,
-};
-
-export const JIMMY_PETEAN: Participant = {
-  name: "Jimmy Petean",
-  link: "https://www.cimat.mx/en/node/613",
-  institute: Institute.CIMAT_MAXICO,
-};
-
-export const ANTOINE_SONG: Participant = {
-  name: "Antoine Song",
-  link: "https://www.claymath.org/people/antoine-song",
-  institute: Institute.UC_BERKELEY,
-};
-
-export const JIAN_SONG: Participant = {
-  name: "Jian Song",
-  link: "https://sites.google.com/site/jiansongrutgers/home",
-  institute: Institute.RUTGERS,
-};
-
-export const CLIFFORD_TAUBES: Participant = {
-  name: "Clifford Taubes",
-  link: "http://www.math.harvard.edu/people/TaubesCliff.html",
-  institute: Institute.HARVARD,
-};
-
 export const ZHIQIN_LU: Participant = {
   name: "Zhiqin Lu",
   link: "mailto:zlu@uci.edu",
