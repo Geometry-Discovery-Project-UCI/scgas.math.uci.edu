@@ -12,7 +12,7 @@
     Two alternative airports are the Long Beach Airport (LGB), about a 30-minute
     drive from campus, and the Los Angeles International Airport (LAX), about a
     50-minute drive away. If arriving from LAX, taxi service is available to
-    Irvine which will cost approximately $70. Also there are many shuttle
+    Irvine which will cost approximately $100. Also there are many shuttle
     services which can take you from LAX to Irvine, for instance the
     <a href="https://www.supershuttle.com/" target="_blank">Super Shuttle</a>.
   </p>
