@@ -25,7 +25,7 @@ function sortByLastName(a: Participant, b: Participant) {
 
 let sortedParticipants: Participant[] | undefined = undefined;
 
-export function geSortedParticipants() {
+export function getSortedParticipants() {
   if (sortedParticipants === undefined) {
     const participants: Participant[] = [];
     for (const key in participantsData) {
@@ -44,7 +44,7 @@ let participantMap: Map<string, Participant> | undefined = undefined;
 
 export function getParticipantsMap() {
   if (participantMap === undefined) {
-    const participants = geSortedParticipants();
+    const participants = getSortedParticipants();
     const map = new Map<string, Participant>();
     participants.forEach((participant) => {
       map.set(participant.name, participant);

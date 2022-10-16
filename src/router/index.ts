@@ -1,5 +1,7 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router";
 import HomeView from "@/views/HomeView.vue";
+import RegistrationView from "@/views/RegistrationView.vue";
+import ParticipantsView from "@/views/ParticipantsView.vue";
 
 export const routes: Array<RouteRecordRaw> = [
   {
@@ -10,12 +12,12 @@ export const routes: Array<RouteRecordRaw> = [
   {
     name: "registration",
     path: "/registration",
-    component: HomeView,
+    component: RegistrationView,
   },
   {
     name: "participants",
     path: "/participants",
-    component: HomeView,
+    component: ParticipantsView,
   },
   {
     name: "program",
