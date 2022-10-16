@@ -3,13 +3,13 @@
   <div id="program">
     <table cellpadding="5">
       <tr>
-        <td colspan="3" style="text-align: center">
+        <td colspan="2" style="text-align: center">
           <strong>Schedule</strong> (All talks are taken at
           {{ seminarLocation }})
         </td>
       </tr>
       <tr>
-        <th colspan="3">{{ from }}</th>
+        <th colspan="2">{{ from }}</th>
       </tr>
       <tr v-for="event in firstDaySchedule" :key="event.time">
         <td>{{ event.time }}</td>
@@ -19,10 +19,10 @@
         </td>
       </tr>
       <tr>
-        <th colspan="3">&nbsp;</th>
+        <th colspan="2">&nbsp;</th>
       </tr>
       <tr>
-        <th colspan="3">{{ to }}</th>
+        <th colspan="2">{{ to }}</th>
       </tr>
       <tr v-for="event in secondDaySchedule" :key="event.time">
         <td>{{ event.time }}</td>

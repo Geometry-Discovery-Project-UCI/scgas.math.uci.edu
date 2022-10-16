@@ -3,6 +3,7 @@ import HomeView from "@/views/HomeView.vue";
 import RegistrationView from "@/views/RegistrationView.vue";
 import ParticipantsView from "@/views/ParticipantsView.vue";
 import ProgramView from "@/views/ProgramView.vue";
+import AccommodationView from "@/views/AccommodationView.vue";
 
 export const routes: Array<RouteRecordRaw> = [
   {
@@ -28,7 +29,7 @@ export const routes: Array<RouteRecordRaw> = [
   {
     name: "accommodation",
     path: "/accommodation",
-    component: HomeView,
+    component: AccommodationView,
   },
   {
     name: "transportation",

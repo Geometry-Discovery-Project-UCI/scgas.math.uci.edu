@@ -1,7 +1,7 @@
 <template>
   <h1>Participants</h1>
   <div id="participants">
-    <table>
+    <table cellpadding="5">
       <thead>
         <tr>
           <th>Last Name</th>

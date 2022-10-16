@@ -108,5 +108,39 @@
                 "abstract": "Z/2 harmonic 1-forms are closed and coclosed 1- forms with values in a real line bundle that is defined on the complement of a cxdimension 2 subvariety of a Riemannian manifold with their norms being zero on this same subvariety. These objects are now known to appear (in dimensions 2-4) in diverse contexts involving SL(2,C) gauge theories. I hope to tell you a story about these objects and the role that they might be playing with regards to the differential topology of low dimensional manifolds."
             }
         ]
+    },
+    "accommodation": {
+        "lunchOptions": [
+            {
+                "name": "Brandywine",
+                "description": "Cafateria inside campus"
+            },
+            {
+                "name": "University Town Center",
+                "description": "Many restaurants"
+            }
+        ],
+        "dinnerOptions": [
+            {
+                "name": "Canaletto (Italian)",
+                "description": "545 Newport Center Dr, Newport Beach, CA 92660, (949) 640-0900, reservation needed"
+            },
+            {
+                "name": "China Garden (Chinese)",
+                "description": "14825 Jeffrey Rd, Irvine, CA 92618, (949) 653-9988"
+            },
+            {
+                "name": "Cucina Enoteca (American)",
+                "description": "951 Newport Center Drive Newport Beach, CA 92260, (949) 706-1416, reservation needed"
+            },
+            {
+                "name": "Jinbei (Japanese)",
+                "description": "3923 Portola Pkwy #200D, Irvine, CA 92602, (714) 544-2800, reservation needed"
+            },
+            {
+                "name": "Kappo Sui (Japanese)",
+                "description": "20070 Santa Ana Ave, Costa Mesa, CA 92626, (714) 429-0141, reservation needed"
+            }
+        ]
     }
 }

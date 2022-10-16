@@ -1,0 +1,57 @@
+<template>
+  <h1>Accommodation</h1>
+  <p>
+    Lodging can be found at various hotels which offer a special UCI corporate
+    rate (inquire when you reserve), including
+    <a target="_blank" href="https://atriumhotel.com/">Atrium Hotel</a>,
+    <a target="_blank" href="https://www.ayreshotels.com/">Ayers Hotel</a>, and
+    <a target="_blank" href="https://www.hotelirvine.com/">Hotel Irvine</a>.
+    These hotels all offer shuttle service to UCI campus, which is the easiest
+    way to get there.
+  </p>
+  <h1>Restaurants</h1>
+  <div id="restaurants">
+    <table cellpadding="5">
+      <tr>
+        <th colspan="2" style="font-size: 20px">Lunch</th>
+      </tr>
+      <tr v-for="lunch in lunchOptions" :key="lunch.name">
+        <td>
+          <strong>{{ lunch.name }}</strong>
+        </td>
+        <td>{{ lunch.description }}</td>
+      </tr>
+      <tr>
+        <th colspan="2" style="font-size: 20px">Dinner Near UC Irvine</th>
+      </tr>
+      <tr v-for="dinner in dinnerOptions" :key="dinner.name">
+        <td>
+          <strong>{{ dinner.name }}</strong>
+        </td>
+        <td>{{ dinner.description }}</td>
+      </tr>
+    </table>
+  </div>
+</template>
+
+<style>
+#restaurants table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+</style>
+
+<script lang="ts">
+import { defineComponent } from "vue";
+import config from "@/config.json";
+
+export default defineComponent({
+  setup: () => {
+    return {
+      lunchOptions: config.accommodation.lunchOptions,
+      dinnerOptions: config.accommodation.dinnerOptions,
+    };
+  },
+});
+</script>
