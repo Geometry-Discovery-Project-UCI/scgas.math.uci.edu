@@ -1,7 +1,26 @@
 {
     "number": 27,
     "duration": {
-        "from": "2020-02-08",
-        "to": "2020-02-09"
-    }
+        "from": "2020-02-08 00:00",
+        "to": "2020-02-09 00:00"
+    },
+    "speakers": [
+        "Camillo De Lellis",
+        "John Lott",
+        "Eugenia Malinnikova",
+        "Jimmy Petean",
+        "Antoine Song",
+        "Jian Song",
+        "Clifford Taubes"
+    ],
+    "registrationUrl": "http://www.math.uci.edu/node/23179",
+    "registrationEndsAt": "2020-01-01 00:00",
+    "organizingCommittee": [
+        "Zhiqin Lu",
+        "Lei Ni",
+        "Richard Schoen",
+        "Jeff Streets",
+        "Jeff Viaclovsky",
+        "Xiangwen Zhang"
+    ]
 }
