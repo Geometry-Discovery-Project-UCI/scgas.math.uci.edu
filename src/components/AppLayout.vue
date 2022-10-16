@@ -1,12 +1,14 @@
 <template>
-  <AppHeader></AppHeader>
-  <div class="divider"></div>
-  <div id="main-content">
-    <AppSider style="flex: 2"></AppSider>
+  <div id="wrapper">
+    <AppHeader></AppHeader>
     <div class="divider"></div>
-    <AppContent style="flex: 7">
-      <RouterView></RouterView>
-    </AppContent>
+    <div id="main-content">
+      <AppSider style="flex: 2"></AppSider>
+      <div class="divider"></div>
+      <AppContent style="flex: 7">
+        <RouterView></RouterView>
+      </AppContent>
+    </div>
   </div>
 </template>
 
@@ -19,6 +21,12 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+#wrapper {
+  max-width: 75vw;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
 

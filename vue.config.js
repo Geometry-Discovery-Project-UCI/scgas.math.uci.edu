@@ -42,6 +42,7 @@ function romanize(num) {
 }
 
 module.exports = {
+  publicPath: "/~scgas/",
   pages: {
     index: {
       entry: "src/main.ts",
