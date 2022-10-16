@@ -1,5 +1,10 @@
 import { Participant, Institute } from "@/types/index";
 
+export const CTBA: Participant = {
+  name: "TBA",
+  institute: Institute.UNKNOWN,
+};
+
 export const CAMILLO_DE_LELLIS: Participant = {
   name: "Camillo De Lellis",
   link: "http://www.math.ias.edu/delellis/node/1",
@@ -63,6 +68,12 @@ export const RICHARD_SCHOEN: Participant = {
 export const JEFF_STREETS: Participant = {
   name: "Jeff Streets",
   link: "mailto:jstreets@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const LISHENG_TSENG: Participant = {
+  name: "Li-sheng Tseng",
+  link: "mailto:lstseng@math.uci.edu",
   institute: Institute.UC_IRVINE,
 };
 

@@ -1,29 +1,24 @@
 {
-    "number": 27,
+    "number": 28,
     "duration": {
-        "from": "2020-02-08 00:00",
-        "to": "2020-02-09 00:00"
+        "from": "2023-03-04 00:00",
+        "to": "2023-03-05 00:00"
     },
     "speakers": [
-        "Camillo De Lellis",
-        "John Lott",
-        "Eugenia Malinnikova",
-        "Jimmy Petean",
-        "Antoine Song",
-        "Jian Song",
-        "Clifford Taubes"
+        "TBA",
+        "TBA"
     ],
     "registrationUrl": "http://www.math.uci.edu/node/23179",
-    "registrationEndsAt": "2020-01-01 00:00",
+    "registrationEndsAt": "2023-02-01 00:00",
     "organizingCommittee": [
         "Zhiqin Lu",
-        "Lei Ni",
         "Richard Schoen",
         "Jeff Streets",
+        "Li-sheng Tseng",
         "Jeff Viaclovsky",
         "Xiangwen Zhang"
     ],
-    "location": "Engineering Lecture Hall 100",
+    "location": "TBA",
     "schedule": {
         "firstDay": [
             {
