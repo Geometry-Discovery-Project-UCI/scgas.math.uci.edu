@@ -28,9 +28,9 @@
   margin-right: auto;
 }
 
-@media (min-width: 960px) {
+@media (min-width: 1024px) {
   #wrapper {
-    width: 75vw;
+    width: 1024px;
   }
 }
 </style>

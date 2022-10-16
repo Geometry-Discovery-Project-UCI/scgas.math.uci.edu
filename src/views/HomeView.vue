@@ -27,7 +27,7 @@
       <a :href="registrationUrl" target="_blank">online registration form</a>.
     </p>
     <p>
-      There will be no registration fee. Donations in the amount of $10-$20
+      There will be no registration fee. Donations in the amount of $10 - $20
       towards helping cover refreshments and administrative costs would be
       welcomed and appreciated during the Saturday morning registration.
     </p>
@@ -37,8 +37,7 @@
     <h1>Conference Support</h1>
     <p>
       The SCGAS conferences have been continuously funded by the National
-      Science Foundation. NSF support for this {{ numberOfSeminar }} SCGAS
-      conference is currently pending.
+      Science Foundation.
     </p>
     <p>
       The NSF funds provide support for the travel and conference expenses of
