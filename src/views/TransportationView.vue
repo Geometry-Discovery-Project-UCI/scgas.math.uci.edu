@@ -18,30 +18,27 @@
   </p>
   <h2>Campus Map and Parking</h2>
   <p>
-    The talks will take place in Engineering Lecture Hall 100 (Building 305)
+    The talks will take place in the {{ seminarLocation }}
     which you can locate on the
     <a
-      href="https://parking.uci.edu/maps/documents/UCI-MainCampusMap.pdf"
+      href="https://parking.uci.edu/maps/documents/2022-UCI-MainCampusMap.pdf"
       target="_blank"
       >campus map</a
-    >. On the map, Engineering Lecture Hall is located in E6. An interactive map
+    >. On the map, {{ seminarLocation }} is located in TBA. An interactive map
     can be found
     <a
       href="http://www.parking.uci.edu/maps/imap.cfm?autolaunch=true&action=getDirections&lotId=31&buildingId=129&pt=V&pid=G3&pl=1&b=0&ik=0&cs=0&zw=0&pd=1"
       target="_blank"
-      >here</a
-    >.
+      >here.</a
+    >
   </p>
   <p>
-    The parking structure that is closest to the Engineering Lecture Hall 100 is
-    the Anteater Parking Structure (APS). Single-day parking permits are
-    available for purchase from the permit dispenser located right in front of
-    the information booth at the entrance of the parking structure. On weekends,
-    the "general" $13 one-day permit allows you to park in both unmarked and AR
-    parking spots. Please note that a valid permit must be displayed at all
-    times when parking on the campus of UC Irvine. For participants from other
-    UC campuses, the parking permit from your home institution may be valid at
-    UC Irvine. Please see the
+    The parking structure that is closest to {{ seminarLocation }} is the
+    Anteater Parking Structure (APS). Single-day parking permits are available
+    for purchase online. On weekends, you can park in the general parking spots
+    with $13 one-day permit. For participants from other UC campuses, the
+    parking permit from your home institution may be valid at UC Irvine. Please
+    see the
     <a
       href="http://www.parking.uci.edu/permits/visitorpermits.cfm"
       target="_blank"
@@ -59,6 +56,13 @@ h2 {
 
 <script lang="ts">
 import { defineComponent } from "vue";
+import config from "@/config.json";
 
-export default defineComponent({});
+export default defineComponent({
+  setup: () => {
+    return {
+      seminarLocation: config.location,
+    };
+  },
+});
 </script>
