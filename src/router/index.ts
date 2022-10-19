@@ -43,6 +43,10 @@ export const routes: Array<RouteRecordRaw> = [
     path: "/past-seminars",
     component: PastSeminarsView,
   },
+  {
+    path: "/:catchAll(.*)",
+    redirect: "/",
+  },
 ];
 
 const router = createRouter({

@@ -35,5 +35,6 @@
 </style>
 
 <script setup lang="ts">
-import { routes } from "@/router";
+import { routes as rawRoutes } from "@/router";
+const routes = rawRoutes.filter((e) => !e.redirect);
 </script>
