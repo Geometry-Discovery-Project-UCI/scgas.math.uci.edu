@@ -1,11 +1,13 @@
 export enum Institute {
   UNKNOWN = "Unknown Institute",
-  IAS_PRINCETON = "IAS, Princeton",
-  UC_BERKELEY = "UC Berkeley",
-  STANFORD = "Stanford",
   CIMAT_MAXICO = "CIMAT, Mexico",
-  RUTGERS = "Rutgers",
-  HARVARD = "Harvard",
+  COLUMBIA = "Columbia U",
+  IAS_PRINCETON = "IAS, Princeton",
+  HARVARD = "Harvard U",
+  NORTHWESTERN = "Northwestern U",
+  RUTGERS = "Rutgers U",
+  STANFORD = "Stanford U",
+  UC_BERKELEY = "UC Berkeley",
   UC_IRVINE = "UC Irvine",
   UC_SAN_DIEGO = "UC San Diego",
 }

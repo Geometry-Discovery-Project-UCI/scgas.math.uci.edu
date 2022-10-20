@@ -41,3 +41,15 @@ export const XIANGWEN_ZHANG: Participant = {
   link: "mailto:xiangwen@uci.edu",
   institute: Institute.UC_IRVINE,
 };
+
+export const MELISSA_LIU: Participant = {
+  name: "Melissa Liu",
+  link: "mailto:ccliu@math.columbia.edu",
+  institute: Institute.COLUMBIA,
+};
+
+export const AARON_NABER: Participant = {
+  name: "Aaron Naber",
+  link: "mailto:anaber@math.northwestern.edu",
+  institute: Institute.NORTHWESTERN,
+};
