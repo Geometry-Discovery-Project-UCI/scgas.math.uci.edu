@@ -7,6 +7,7 @@ export enum Institute {
   NORTHWESTERN = "Northwestern U",
   RUTGERS = "Rutgers U",
   STANFORD = "Stanford U",
+  UBC = "U of British Columbia",
   UC_BERKELEY = "UC Berkeley",
   UC_IRVINE = "UC Irvine",
   UC_SAN_DIEGO = "UC San Diego",

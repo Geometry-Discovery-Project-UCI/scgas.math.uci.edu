@@ -53,3 +53,15 @@ export const AARON_NABER: Participant = {
   link: "mailto:anaber@math.northwestern.edu",
   institute: Institute.NORTHWESTERN,
 };
+
+export const AILANA_FRASER: Participant = {
+  name: "Ailana Fraser",
+  link: "mailto:afraser@math.ubc.ca",
+  institute: Institute.UBC,
+};
+
+export const GABOR_SZEKELYHIDI: Participant = {
+  name: "Gabor Szekelyhidi",
+  link: "mailto:gaborsz@northwestern.edu",
+  institute: Institute.NORTHWESTERN,
+};
