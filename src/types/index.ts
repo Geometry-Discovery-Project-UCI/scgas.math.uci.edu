@@ -4,6 +4,7 @@ export enum Institute {
   COLUMBIA = "Columbia U",
   IAS_PRINCETON = "IAS, Princeton",
   HARVARD = "Harvard U",
+  MIT = "MIT",
   NORTHWESTERN = "Northwestern U",
   RUTGERS = "Rutgers U",
   STANFORD = "Stanford U",

@@ -65,3 +65,15 @@ export const GABOR_SZEKELYHIDI: Participant = {
   link: "mailto:gaborsz@northwestern.edu",
   institute: Institute.NORTHWESTERN,
 };
+
+export const YANG_LI: Participant = {
+  name: "Yang Li",
+  link: "mailto:yangmit@mit.edu",
+  institute: Institute.MIT,
+};
+
+export const RICHARD_BAMLER: Participant = {
+  name: "Richard Bamler",
+  link: "mailto:rbamler@berkeley.edu",
+  institute: Institute.UC_BERKELEY,
+};
