@@ -4,12 +4,14 @@ export enum Institute {
   COLUMBIA = "Columbia U",
   IAS_PRINCETON = "IAS, Princeton",
   HARVARD = "Harvard U",
+  MIT = "MIT",
   NORTHWESTERN = "Northwestern U",
   RUTGERS = "Rutgers U",
   STANFORD = "Stanford U",
   UC_BERKELEY = "UC Berkeley",
   UC_IRVINE = "UC Irvine",
   UC_SAN_DIEGO = "UC San Diego",
+  UBC = "U of British-Columbia",
 }
 
 export interface Participant {

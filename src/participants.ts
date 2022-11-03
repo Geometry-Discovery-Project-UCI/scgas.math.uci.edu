@@ -53,3 +53,33 @@ export const AARON_NABER: Participant = {
   link: "mailto:anaber@math.northwestern.edu",
   institute: Institute.NORTHWESTERN,
 };
+
+export const OTIS_CHODOSH: Participant = {
+  name: "Otis Chodosh",
+  link: "mailto:ochodosh@stanford.edu",
+  institute: Institute.STANFORD,
+};
+
+export const YANG_LI: Participant = {
+  name: "Yang Li",
+  link: "mailto:yangmit@mit.edu",
+  institute: Institute.MIT,
+};
+
+export const GOBOR_SZEKELYHIDI: Participant = {
+  name: "Gabor Szekelyhidi",
+  link: "mailto:gaborsz@northwestern.edu",
+  institute: Institute.NORTHWESTERN,
+};
+
+export const RICHARD_BAMLER: Participant = {
+  name: "Richard Bamler",
+  link: "mailto:rbamler@berkeley.edu",
+  institute: Institute.UC_BERKELEY,
+};
+
+export const AILANA_FRASER: Participant = {
+  name: "Ailana Fraser",
+  link: "mailto:afraser@math.ubc.ca",
+  institute: Institute.UBC,
+};
