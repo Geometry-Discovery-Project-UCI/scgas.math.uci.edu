@@ -24,7 +24,7 @@
     <h1>Registration and Social Events</h1>
     <p>
       Conference participants are requested to register in advance using the
-      <a href="https://forms.gle/J4rXoqBYd5iKpiRs7" target="_blank">online registration form</a>.
+      <a :href="registrationUrl" target="_blank">online registration form</a>.
     </p>
     <p>
       There will be no registration fee. Donations in the amount of $10 - $20
