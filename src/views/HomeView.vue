@@ -27,9 +27,8 @@
       <a :href="registrationUrl" target="_blank">online registration form</a>.
     </p>
     <p>
-      There will be no registration fee. Donations in the amount of $10 - $20
-      towards helping cover refreshments and administrative costs would be
-      welcomed and appreciated during the Saturday morning registration.
+      There will be $20 registration fee to cover refreshments during the
+      Saturday morning registration.
     </p>
   </div>
 

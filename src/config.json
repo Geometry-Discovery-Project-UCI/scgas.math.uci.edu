@@ -14,8 +14,8 @@
         "Gabor Szekelyhidi"
     ],
     "registrationUrl": "https://forms.gle/J4rXoqBYd5iKpiRs7",
-    "posterUrl": "./2023_SCGAS_Poster.pdf",
-    "registrationEndsAt": "2023-02-01 00:00",
+    "posterUrl": "./2023_SCGAS_Poster_4.pdf",
+    "registrationEndsAt": "2023-01-16 00:00",
     "organizingCommittee": [
         "Zhiqin Lu",
         "Richard Schoen",
@@ -24,7 +24,7 @@
         "Jeff Viaclovsky",
         "Xiangwen Zhang"
     ],
-    "location": "TBA",
+    "location": "ISEB 1010, close to the Math Dept Building Rowland Hall",
     "schedule": {
         "firstDay": [
             {
@@ -72,6 +72,13 @@
                 "time": "4:30PM - 5:30PM",
                 "activity": "",
                 "isSpeech": true,
+                "title": "",
+                "abstract": ""
+            },
+            {
+                "time": "6:30PM - 9:30PM",
+                "activity": "Banquet",
+                "isSpeech": false,
                 "title": "",
                 "abstract": ""
             }
