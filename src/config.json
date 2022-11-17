@@ -24,7 +24,11 @@
         "Jeff Viaclovsky",
         "Xiangwen Zhang"
     ],
-    "location": "ISEB 1010, close to the Math Dept Building Rowland Hall",
+    "location": {
+        "room": "ISEB 1010",
+        "description": "close to the Math Dept Building Rowland Hall",
+        "link": "https://parking.uci.edu/maps/imap.cfm?autolaunch=true&action=getDirections&lotId=31&buildingId=129&pt=V&pid=G3&pl=1&b=0&ik=0&cs=0&zw=0&pd=1&autolaunch=true&action=getDirections&lotId=31&buildingId=129&pt=V&pid=G3&pl=1&b=0&ik=0&cs=0&zw=0&pd=1&autolaunch=true&action=getDirections&lotId=31&buildingId=129&pt=V&pid=G3&pl=1&b=0&ik=0&cs=0&zw=0&pd=1&autolaunch=true&action=getDirections&lotId=31&buildingId=129&pt=V&pid=G3&pl=1&b=0&ik=0&cs=0&zw=0&pd=1"
+    },
     "schedule": {
         "firstDay": [
             {

@@ -18,22 +18,22 @@
   </p>
   <h2>Campus Map and Parking</h2>
   <p>
-    The talks will take place in the {{ seminarLocation }}
+    The talks will take place in the
+    <a :href="seminarLocation.link">{{ seminarLocation.room }}</a>
     which you can locate on the
     <a
       href="https://parking.uci.edu/maps/documents/2022-UCI-MainCampusMap.pdf"
       target="_blank"
       >campus map</a
-    >. On the map, {{ seminarLocation }} is located in TBA. An interactive map
-    can be found
+    >. An interactive map can be found
     <a
       href="http://www.parking.uci.edu/maps/imap.cfm?autolaunch=true&action=getDirections&lotId=31&buildingId=129&pt=V&pid=G3&pl=1&b=0&ik=0&cs=0&zw=0&pd=1"
       target="_blank"
-      >here.</a
-    >
+      >here</a
+    >.
   </p>
   <p>
-    The parking structure that is closest to {{ seminarLocation }} is the
+    The parking structure that is closest to {{ seminarLocation.room }} is the
     Anteater Parking Structure (APS). Single-day parking permits are available
     for purchase online. On weekends, you can park in the general parking spots
     with $13 one-day permit. For participants from other UC campuses, the

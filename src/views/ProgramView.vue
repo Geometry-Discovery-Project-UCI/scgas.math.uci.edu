@@ -5,14 +5,15 @@
       <tr>
         <td colspan="2" style="text-align: center">
           <strong>Schedule</strong> (All talks are taken at
-          {{ seminarLocation }})
+          <a :href="seminarLocation.link">{{ seminarLocation.room }}</a
+          ><span>, {{ seminarLocation.description }})</span>
         </td>
       </tr>
       <tr>
         <th colspan="2">{{ from }}</th>
       </tr>
       <tr v-for="event in firstDaySchedule" :key="event.time">
-        <td>{{ event.time }}</td>
+        <td class="scheduled-time">{{ event.time }}</td>
         <td>
           <strong v-if="event.isSpeech">{{ event.activity }}</strong>
           <span v-else>{{ event.activity }}</span>
@@ -25,7 +26,7 @@
         <th colspan="2">{{ to }}</th>
       </tr>
       <tr v-for="event in secondDaySchedule" :key="event.time">
-        <td>{{ event.time }}</td>
+        <td class="scheduled-time">{{ event.time }}</td>
         <td>
           <strong v-if="event.isSpeech">{{ event.activity }}</strong>
           <span v-else>{{ event.activity }}</span>
@@ -52,6 +53,10 @@
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+}
+
+#program .scheduled-time {
+  width: 150px;
 }
 </style>
 
