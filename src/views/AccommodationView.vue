@@ -5,8 +5,12 @@
     rate (inquire when you reserve), including
     <a target="_blank" href="https://atriumhotel.com/">Atrium Hotel</a>,
     <a target="_blank" href="https://www.ayreshotels.com/">Ayers Hotel</a>, and
-    <a target="_blank" href="https://www.hotelirvine.com/">Hotel Irvine</a>.
-    These hotels all offer shuttle service to UCI campus, which is the easiest
+    <a
+      target="_blank"
+      href="https://www.hyatt.com/en-US/hotel/california/hyatt-regency-john-wayne-airport-newport-beach/snarj"
+    >
+      Hyatt Regency </a
+    >.These hotels all offer shuttle service to UCI campus, which is the easiest
     way to get there.
   </p>
   <h1>Restaurants</h1>
