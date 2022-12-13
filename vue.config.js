@@ -42,11 +42,13 @@ function romanize(num) {
 }
 
 module.exports = {
-  publicPath: "/~scgas/",
   pages: {
     index: {
       entry: "src/main.ts",
       title: `${romanize(config.number)} SCGAS`,
     },
+  },
+  devServer: {
+    allowedHosts: "all",
   },
 };
