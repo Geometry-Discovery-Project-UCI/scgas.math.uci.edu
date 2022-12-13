@@ -7,7 +7,7 @@
     </p>
     <p>
       Graduate students, recent Ph.D's, and under-represented minorities are
-      especially encouraged to participate and apply for travel support.
+      especially encouraged to participate and apply for travel support is ok.
     </p>
   </div>
 
