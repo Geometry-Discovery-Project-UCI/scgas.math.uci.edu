@@ -2,7 +2,7 @@
   <div id="sider">
     <div v-for="route in routes" :key="route.name">
       <div style="border-bottom: 1px solid #000000">
-        <RouterLink class="nav-item" :to="route.path">{{
+        <RouterLink class="nav-item hover-shadow" :to="route.path">{{
           route.name
         }}</RouterLink>
       </div>
@@ -25,10 +25,6 @@
   color: rgb(6, 32, 144);
 }
 
-.nav-item:hover {
-  text-shadow: 2px 2px 4px #000000;
-}
-
 .nav-item:visited {
   color: rgb(6, 32, 144);
 }
@@ -36,7 +32,5 @@
 
 <script setup lang="ts">
 import { routes as rawRoutes } from "@/router";
-const routes = rawRoutes.filter(
-  (e) => !e.redirect && e.name != "reimbursement"
-);
+const routes = rawRoutes.filter((e) => !e.hidden);
 </script>

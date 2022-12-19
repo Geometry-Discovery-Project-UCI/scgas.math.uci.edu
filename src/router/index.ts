@@ -9,7 +9,7 @@ import PastSeminarsView from "@/views/PastSeminarsView.vue";
 import PosterView from "@/views/PosterView.vue";
 import ReimbursementView from "@/views/ReimbursementView.vue";
 
-export const routes: Array<RouteRecordRaw> = [
+export const routes: Array<RouteRecordRaw & { hidden?: boolean }> = [
   {
     path: "/",
     name: "home",
@@ -54,10 +54,12 @@ export const routes: Array<RouteRecordRaw> = [
     name: "reimbursement",
     path: "/reimbursement",
     component: ReimbursementView,
+    hidden: true,
   },
   {
     path: "/:catchAll(.*)",
     redirect: "/",
+    hidden: true,
   },
 ];
 

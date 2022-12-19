@@ -15,4 +15,8 @@ export default defineComponent({
 html {
   background-color: rgb(16, 31, 102);
 }
+
+.hover-shadow:hover {
+  text-shadow: 2px 2px 4px #000000;
+}
 </style>

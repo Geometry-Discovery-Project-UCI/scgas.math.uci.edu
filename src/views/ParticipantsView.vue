@@ -11,8 +11,12 @@
       </thead>
       <tbody>
         <tr v-for="participant in participants" :key="participant.name">
-          <td>{{ participant.name.split(" ").pop() }}</td>
-          <td>{{ participant.name.split(" ").slice(0, -1).join(" ") }}</td>
+          <td>
+            <strong>{{
+              participant.name.split(" ").slice(-1).join(" ")
+            }}</strong>
+          </td>
+          <td>{{ participant.name.split(" ")[0] }}</td>
           <td>{{ participant.institute }}</td>
         </tr>
       </tbody>
