@@ -36,5 +36,7 @@
 
 <script setup lang="ts">
 import { routes as rawRoutes } from "@/router";
-const routes = rawRoutes.filter((e) => !e.redirect);
+const routes = rawRoutes.filter(
+  (e) => !e.redirect && e.name != "reimbursement"
+);
 </script>

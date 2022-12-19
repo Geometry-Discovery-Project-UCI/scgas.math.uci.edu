@@ -7,6 +7,7 @@ import AccommodationView from "@/views/AccommodationView.vue";
 import TransportationView from "@/views/TransportationView.vue";
 import PastSeminarsView from "@/views/PastSeminarsView.vue";
 import PosterView from "@/views/PosterView.vue";
+import ReimbursementView from "@/views/ReimbursementView.vue";
 
 export const routes: Array<RouteRecordRaw> = [
   {
@@ -48,6 +49,11 @@ export const routes: Array<RouteRecordRaw> = [
     name: "poster",
     path: "/poster",
     component: PosterView,
+  },
+  {
+    name: "reimbursement",
+    path: "/reimbursement",
+    component: ReimbursementView,
   },
   {
     path: "/:catchAll(.*)",
