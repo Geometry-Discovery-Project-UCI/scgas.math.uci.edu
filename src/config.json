@@ -14,7 +14,13 @@
         "Gabor Szekelyhidi"
     ],
     "registrationUrl": "https://forms.gle/J4rXoqBYd5iKpiRs7",
-    "posterUrl": "./2023_SCGAS_Poster_4.pdf",
+    "posterUrl": "pdfs/2023_scgas_poster.pdf",
+    "reimbursementDocuments": [
+        "pdfs/travelers_guidelines_2022.pdf",
+        "pdfs/certificate_of_academic_activity.pdf",
+        "pdfs/travel_reimbursement_form.pdf",
+        "pdfs/mileage_log_sheet.pdf"
+    ],
     "registrationEndsAt": "2023-01-16 00:00",
     "organizingCommittee": [
         "Zhiqin Lu",
