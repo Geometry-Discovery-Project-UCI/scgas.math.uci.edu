@@ -413,3 +413,21 @@ export const MAX_HALLGREN: Participant = {
   link: "mailto:mhallgren3330@gmail.com",
   institute: Institute.RUTGERS_UNIVERSITY,
 };
+
+export const YU_CHI_HOU: Participant = {
+  name: "Yu-Chi Yu",
+  link: "mailto:yhou1994@umd.edu",
+  institute: Institute.UNIVERSITY_OF_MARYLAND,
+};
+
+export const MELIKE_AYDOGAN: Participant = {
+  name: "Melike Aydogan",
+  link: "mailto:melikeaydogan43@gmail.com",
+  institute: Institute.ISTANBUL_TECHNICAL_UNIVERSITY,
+};
+
+export const ADRIAN_CHU: Participant = {
+  name: "Adrian Chun-Pong Chu",
+  link: "mailto:acpc@uchicago.edu",
+  institute: Institute.UNIVERSITY_OF_CHICAGO,
+};
