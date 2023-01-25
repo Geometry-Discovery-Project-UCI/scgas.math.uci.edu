@@ -34,6 +34,18 @@ export enum Institute {
   CORNELL_UNIVERSITY = "Cornell University",
   SUN_YAT_SEN_UNIVERSITY_ZHUHAI = "Sun Yat-Sen University (Zhuhai)",
   ISTANBUL_TECHNICAL_UNIVERSITY = "İstanbul Technical University",
+  STONYBROOK_UNIVERSITY = "Stony Brook University",
+  LUT = "Lappeenranta University of Technology, Finland",
+  UNIVERSITY_OF_PENNSYLVANIA = "University of Pennsylvania",
+  WEST_VIRGINIA_UNIVERSITY = "West Virginia University",
+  CALPOLY_SLO = "Cal Poly, San Luis Obispo",
+  UNAM = "UNAM",
+  CUNY = "CUNY",
+  WICHITA_U = "Wichita State University",
+  CSU_SM = "CSU San Marcos",
+  UNIVERSITY_OF_NORTH_ALABAMA = "University of North Alabama",
+  UMBB = "UMBB",
+  UT_DALLAS = "UT Dallas",
 }
 
 export interface Participant {
