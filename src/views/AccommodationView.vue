@@ -3,17 +3,58 @@
   <p>
     Lodging can be found at various hotels which offer a special UCI corporate
     rate (inquire when you reserve), including
-    <a target="_blank" href="https://www.ayreshotels.com/"
-      >Ayers Hotel (Use conference code 14767 "SCGAS - Dept. of Math" to get the
-      University rate of $129 per night)</a
-    >, <a target="_blank" href="https://atriumhotel.com/">Atrium Hotel</a>,and
-    <a
-      target="_blank"
-      href="https://www.hyatt.com/en-US/hotel/california/hyatt-regency-john-wayne-airport-newport-beach/snarj"
-    >
-      Hyatt Regency </a
-    >.These hotels all offer shuttle service to UCI campus, which is the easiest
-    way to get there.
+  </p>
+
+  <table cellpadding="5">
+    <col width="30%" />
+    <col width="70%" />
+    <tr>
+      <td>
+        <b
+          ><a
+            class="hover-shadow"
+            target="_blank"
+            href="https://www.ayreshotels.com/"
+            >Ayers Hotel at Costa Mesa</a
+          ></b
+        >
+      </td>
+      <td>
+        Use conference code 14767 "SCGAS - Dept. of Math" to get the University
+        rate of $129 per night
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>
+          <a
+            class="hover-shadow"
+            target="_blank"
+            href="https://atriumhotel.com/"
+            >Atrium Hotel</a
+          ></b
+        >
+      </td>
+      <td>Mention "UCI"</td>
+    </tr>
+    <tr>
+      <td>
+        <b>
+          <a
+            class="hover-shadow"
+            target="_blank"
+            href="https://www.hyatt.com/en-US/hotel/california/hyatt-regency-john-wayne-airport-newport-beach/snarj"
+          >
+            Hyatt Regency
+          </a></b
+        >
+      </td>
+      <td>Mention "UCI"</td>
+    </tr>
+  </table>
+  <p>
+    These hotels all offer shuttle service to UCI campus, which is the easiest
+    way to commute.
   </p>
   <h1>Restaurants</h1>
   <div id="restaurants">
