@@ -3,8 +3,10 @@
   <p>
     Lodging can be found at various hotels which offer a special UCI corporate
     rate (inquire when you reserve), including
-    <a target="_blank" href="https://atriumhotel.com/">Atrium Hotel</a>,
-    <a target="_blank" href="https://www.ayreshotels.com/">Ayers Hotel</a>, and
+    <a target="_blank" href="https://www.ayreshotels.com/"
+      >Ayers Hotel (Use conference code 14767 "SCGAS - Dept. of Math" to get the
+      University rate of $129 per night)</a
+    >, <a target="_blank" href="https://atriumhotel.com/">Atrium Hotel</a>,and
     <a
       target="_blank"
       href="https://www.hyatt.com/en-US/hotel/california/hyatt-regency-john-wayne-airport-newport-beach/snarj"
