@@ -44,10 +44,10 @@
             },
             {
                 "time": "11:00AM - 12:00PM",
-                "activity": "Speaker 1",
+                "activity": "Otis Chodosh",
                 "isSpeech": true,
-                "title": "Speaker 1 title",
-                "abstract": "Speaker 1 abstracts"
+                "title": "Generic regularity of area-minimizing hypersurfaces in 9 and 10 dimensions",
+                "abstract": " I will discuss work with Christos Mantoulidis and Felix Schulze showing that area-minimizing hypersurfaces in 9 and 10 dimensions are generically smooth."
             },
             {
                 "time": "12:00PM - 1:30PM",
@@ -56,10 +56,10 @@
             },
             {
                 "time": "1:30PM - 2:30PM",
-                "activity": "",
+                "activity": "Yang Li",
                 "isSpeech": true,
-                "title": "",
-                "abstract": ""
+                "title": "Metric SYZ conjecture",
+                "abstract": "The Strominger-Yau-Zaslow conjecture asks for the existence of special Lagrangian torus fibrations on Calabi-Yau manifolds near the large complex structure limit. I will discuss some recent progress on this, especially the case of the Fermat family of hypersurfaces."
             },
             {
                 "time": "2:30PM - 3:00PM",

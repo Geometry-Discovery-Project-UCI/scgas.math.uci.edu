@@ -15,7 +15,9 @@
       <tr v-for="event in firstDaySchedule" :key="event.time">
         <td class="scheduled-time">{{ event.time }}</td>
         <td>
-          <strong v-if="event.isSpeech">{{ event.activity }}</strong>
+          <strong v-if="event.isSpeech">{{
+            isReleased ? event.activity : ""
+          }}</strong>
           <span v-else>{{ event.activity }}</span>
         </td>
       </tr>
@@ -28,14 +30,16 @@
       <tr v-for="event in secondDaySchedule" :key="event.time">
         <td class="scheduled-time">{{ event.time }}</td>
         <td>
-          <strong v-if="event.isSpeech">{{ event.activity }}</strong>
+          <strong v-if="event.isSpeech">{{
+            isReleased ? event.activity : ""
+          }}</strong>
           <span v-else>{{ event.activity }}</span>
         </td>
       </tr>
     </table>
   </div>
   <div class="divider"></div>
-  <h1>Titles and Abstracts (Ordered by Time)</h1>
+  <h1>Titles and Abstracts <span v-if="isReleased">(Ordered by Time)</span></h1>
   <div>
     <div v-for="speech in speeches" :key="speech.time">
       <div>
@@ -89,6 +93,7 @@ export default defineComponent({
       firstDaySchedule,
       secondDaySchedule,
       speeches,
+      isReleased: false,
     };
   },
 });
