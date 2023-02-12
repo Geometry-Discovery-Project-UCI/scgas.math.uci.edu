@@ -143,7 +143,17 @@
       <li>Ken-Ichi Yoshikawa, U of Tokyo</li>
       <li>Wolfgang Ziller, U of Penn</li>
     </ul>
-    <h2>The 16th SCGAS, UCSD, February 21-22, 2009</h2>
+    <h2>
+      The 16th SCGAS, UCSD, February 21-22, 2009 (<a
+        :href="XVIposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Jian Song, Rutgers U</li>
       <li>Neil Trudinger, Australian National U</li>
@@ -152,7 +162,17 @@
       <li>Guofang Wei, UC Santa Barbara</li>
     </ul>
 
-    <h2>The 17th SCGAS, UCI, February 20-21, 2010</h2>
+    <h2>
+      The 17th SCGAS, UCI, February 20-21, 2010 (<a
+        :href="XVIIposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Matthew Gursky, U of Notre Dame</li>
       <li>Lizhen Ji, U of Michigan</li>
@@ -162,7 +182,17 @@
       <li>Scott Wolpert, U of Maryland</li>
     </ul>
 
-    <h2>The 18th SCGAS, UCSD, February 26-27, 2011</h2>
+    <h2>
+      The 18th SCGAS, UCSD, February 26-27, 2011 (<a
+        :href="XVIIIposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Ben Andrews, Australian National U</li>
       <li>Ailana Fraser, U of British Columbia</li>
@@ -173,7 +203,17 @@
       <li>Jeff Viaclovsky, UW Madison</li>
     </ul>
 
-    <h2>The 19th SCGAS, UCI, January 14-17, 2012</h2>
+    <h2>
+      The 19th SCGAS, UCI, January 14-17, 2012 (<a
+        :href="XIXposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Panagiota Daskalopoulos, Columbia U</li>
       <li>Alexander Grigor'yan, U of Bielefeld</li>
@@ -193,7 +233,17 @@
       <li>Shing-Tung Yau, Harvard U</li>
     </ul>
 
-    <h2>The 20th SCGAS, UCSD, February 23-24, 2013</h2>
+    <h2>
+      The 20th SCGAS, UCSD, February 23-24, 2013 (<a
+        :href="XXposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Gérard Besson, Grenoble</li>
       <li>Hubert Bray, Duke U</li>
@@ -204,7 +254,17 @@
       <li>Steven Zelditch, Northwestern U</li>
     </ul>
 
-    <h2>The 21st SCGAS, UCI, February 22-23, 2014</h2>
+    <h2>
+      The 21st SCGAS, UCI, February 22-23, 2014 (<a
+        :href="XXIposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Tobias Colding, MIT</li>
       <li>John Lott, UC Berkeley</li>
@@ -214,7 +274,17 @@
       <li>Yanir Rubinstein, U of Maryland</li>
       <li>Mu-Tao Wang, Columbia U</li>
     </ul>
-    <h2>The 22nd SCGAS, UCSD, February 7-8, 2015</h2>
+    <h2>
+      The 22nd SCGAS, UCSD, February 7-8, 2015 (<a
+        :href="XXIIposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Alessio Figalli, UT Austin</li>
       <li>Gang Liu, UC Berkeley</li>
@@ -225,7 +295,27 @@
       <li>Burkhard Wilking, U of Muenster</li>
     </ul>
 
-    <h2>The 23rd SCGAS, UCI, January 30-31, 2016</h2>
+    <h2>
+      The 23rd SCGAS, UCI, January 30-31, 2016 (<a
+        :href="XXIIIposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster1</a
+      >
+      |
+      <a
+        :href="XXIIIposterUrla"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster2</a
+      >)
+    </h2>
     <ul>
       <li>Claudio Arezzo, ICTP Trieste and Parma</li>
       <li>Jeff Cheeger, NYU</li>
@@ -236,7 +326,17 @@
       <li>Brian White, Stanford U</li>
     </ul>
 
-    <h2>The 24th SCGAS, UCSD, February 11-12, 2017</h2>
+    <h2>
+      The 24th SCGAS, UCSD, February 11-12, 2017 (<a
+        :href="XXIVposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Fang-Hua Lin, NYU</li>
       <li>William Minicozzi, MIT</li>
@@ -247,7 +347,17 @@
       <li>Michael Wolf, Rice U</li>
     </ul>
 
-    <h2>The 25th SCGAS, UCI, February 27-28, 2018</h2>
+    <h2>
+      The 25th SCGAS, UCI, February 27-28, 2018 (<a
+        :href="XXVposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Shouhei Honda, Tohoku U</li>
       <li>Vladimir Markovic, Caltech</li>
@@ -257,7 +367,17 @@
       <li>Peter Topping, U of Warwick</li>
       <li>Shing-Tung Yau, Harvard U</li>
     </ul>
-    <h2>The 26th SCGAS, UCSD, January 26-27, 2019</h2>
+    <h2>
+      The 26th SCGAS, UCSD, January 26-27, 2019 (<a
+        :href="XXVIposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Xiuxiong Chen, U of Stony Brook</li>
       <li>Tristan Collins, MIT</li>
@@ -267,15 +387,53 @@
       <li>Burkhard Wilking, U of Muenster</li>
       <li>Fangyang Zheng, Ohio State U</li>
     </ul>
-    <h2>The 27th SCGAS, UCI, February 8-9, 2020</h2>
+    <h2>
+      The 27th SCGAS, UCI, February 8-9, 2020 (<a
+        :href="XXVIIposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
     <ul>
       <li>Camillo De Lellis, IAS and Princeton U</li>
       <li>John Lott, UC Berkeley</li>
       <li>Eugenia Malinnikova, Stanford U</li>
       <li>Jimmy Petean, CIMAT, Mexico</li>
       <li>Antoine Song, UC Berkeley</li>
-      <li>BJian Song, Rutgers U</li>
+      <li>Jian Song, Rutgers U</li>
       <li>Clifford Taubes, Harvard U</li>
     </ul>
   </div>
 </template>
+
+<script lang="ts">
+import { defineComponent } from "vue";
+import config from "@/config.json";
+
+export default defineComponent({
+  setup: () => {
+    return {
+      XVIposterUrl: config.XVIposterUrl,
+      XVIIposterUrl: config.XVIIposterUrl,
+      XVIIIposterUrl: config.XVIIIposterUrl,
+      XIXposterUrl: config.XIXposterUrl,
+      XXposterUrl: config.XXposterUrl,
+      XXIposterUrl: config.XXIposterUrl,
+      XXIIposterUrl: config.XXIIposterUrl,
+      XXIIIposterUrl: config.XXIIIposterUrl,
+      XXIIIposterUrla: config.XXIIIposterUrla,
+      XXIVposterUrl: config.XXIVposterUrl,
+      XXVposterUrl: config.XXVposterUrl,
+      XXVIposterUrl: config.XXVIposterUrl,
+      XXVIIposterUrl: config.XXVIIposterUrl,
+    };
+  },
+  mounted: () => {
+    window.open(config.posterUrl, "_blank");
+  },
+});
+</script>

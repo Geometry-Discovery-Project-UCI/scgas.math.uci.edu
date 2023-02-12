@@ -15,6 +15,23 @@
     ],
     "registrationUrl": "https://forms.gle/J4rXoqBYd5iKpiRs7",
     "posterUrl": "pdfs/2023_scgas_poster.pdf",
+
+
+    "XVIposterUrl": "pdfs/posters/2009-poster.pdf",
+    "XVIIposterUrl": "pdfs/posters/2010-poster.pdf",
+    "XVIIIposterUrl": "pdfs/posters/2011-poster.pdf",
+    "XIXposterUrl": "pdfs/posters/2012-poster.pdf",
+    "XXposterUrl": "pdfs/posters/2013-poster.pdf",
+    "XXIposterUrl": "pdfs/posters/2014-poster.pdf",
+    "XXIIposterUrl": "pdfs/posters/2015-poster.pdf",
+    "XXIIIposterUrl": "pdfs/posters/2016-poster.pdf",
+    "XXIIIposterUrla": "pdfs/posters/2016-poster-2.pdf",
+    "XXIVposterUrl": "pdfs/posters/2017-poster.pdf",
+    "XXVposterUrl": "pdfs/posters/2018-poster.pdf",
+    "XXVIposterUrl": "pdfs/posters/2019-poster.pdf",
+    "XXVIIposterUrl": "pdfs/posters/2020-poster.pdf",
+
+
     "reimbursementDocuments": [
         "pdfs/travelers_guidelines_2022.pdf",
         "pdfs/certificate_of_academic_activity.pdf",
