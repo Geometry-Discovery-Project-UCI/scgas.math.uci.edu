@@ -432,8 +432,5 @@ export default defineComponent({
       XXVIIposterUrl: config.XXVIIposterUrl,
     };
   },
-  mounted: () => {
-    window.open(config.posterUrl, "_blank");
-  },
 });
 </script>
