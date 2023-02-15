@@ -85,10 +85,10 @@
             },
             {
                 "time": "3:00PM - 4:00PM",
-                "activity": "",
+                "activity": "Richard Bamler",
                 "isSpeech": true,
-                "title": "",
-                "abstract": ""
+                "title": "Towards a theory of Ricci flow in dimension 4",
+                "abstract": "The Ricci flow (with surgery) has proven to be a powerful tool in the study of 3-dimensional topology — its most (need some edits here) "
             },
             {
                 "time": "4:00PM - 4:30PM",

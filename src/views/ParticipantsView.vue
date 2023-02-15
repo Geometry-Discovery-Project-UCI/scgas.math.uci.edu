@@ -1,5 +1,9 @@
 <template>
   <h1>Participants</h1>
+  (updated on 2/14/2023)
+
+  <br />
+
   <div id="participants">
     <table cellpadding="5">
       <thead>

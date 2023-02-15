@@ -6,7 +6,6 @@ export enum Institute {
   HARVARD = "Harvard U",
   MIT = "MIT",
   NORTHWESTERN = "Northwestern U",
-  RUTGERS = "Rutgers U",
   STANFORD = "Stanford U",
   UC_BERKELEY = "UC Berkeley",
   UC_IRVINE = "UC Irvine",
@@ -46,6 +45,18 @@ export enum Institute {
   UNIVERSITY_OF_NORTH_ALABAMA = "University of North Alabama",
   UMBB = "UMBB",
   UT_DALLAS = "UT Dallas",
+  UNIVERSITY_OF_OREGON = "University of Oregon",
+  UNIVERSITY_OF_WASHINGTON_ST_LOUIS = "University of Washington in St. Louis",
+  CALTECH = "Caltech",
+  MONASH_U = "Monash University",
+  OKSTATE = "Oklahoma State University",
+  TLEMCEN = "University of Tlemcen",
+  KUWAIT_U = "Kuwait University",
+  SUNY = "State University of New York",
+  FIU_ITU = "Florida International University / Istanbul Technical University",
+  CHINESE_U_OF_HK = "The Chinese University of Hong Kong",
+  CSULB = "California State University at Long Beach",
+  CSUSM = "California State University San Marcos",
 }
 
 export interface Participant {

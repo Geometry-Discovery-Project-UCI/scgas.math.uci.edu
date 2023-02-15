@@ -647,3 +647,189 @@ export const PRAKHAR_GUPTA: Participant = {
   link: "mailto:pgupta8@umd.edu",
   institute: Institute.UNIVERSITY_OF_MARYLAND,
 };
+
+export const YOOGMIN_PARK: Participant = {
+  name: "Yongmin Park",
+  link: "mailto:yongminp@uoregon.edu",
+  institute: Institute.UNIVERSITY_OF_OREGON,
+};
+
+export const HAO_ZHUANG: Participant = {
+  name: "Hao Zhuang",
+  link: "mailto:hzhuang@wustl.edu",
+  institute: Institute.UNIVERSITY_OF_WASHINGTON_ST_LOUIS,
+};
+
+export const HUUN_JANG: Participant = {
+  name: "Hyun Chul Jang",
+  link: "mailto:hcjang@caltech.edu",
+  institute: Institute.CALTECH,
+};
+
+export const JINGZE_ZHU: Participant = {
+  name: "Jingze Zhu",
+  link: "mailto:zhujz@mit.edu",
+  institute: Institute.MIT,
+};
+
+export const XIAOKANG_WANG: Participant = {
+  name: "Xiaokang Wang",
+  link: "mailto:xiaokaw@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const PETER_OLANIPEKUN: Participant = {
+  name: "Peter Olanipekun",
+  link: "mailto:olanipekunp@gmail.com",
+  institute: Institute.MONASH_U,
+};
+
+export const ABDULLAH_HELAL: Participant = {
+  name: "Abdullah Al Helal",
+  link: "mailto:ahelal@okstate.edu",
+  institute: Institute.OKSTATE,
+};
+
+export const ERIC_CHEN: Participant = {
+  name: "Eric Chen",
+  link: "mailto:ecc@berkeley.edu",
+  institute: Institute.UC_BERKELEY,
+};
+
+export const YUANFAN_WANG: Participant = {
+  name: "Yuanfan Wang",
+  link: "mailto:yuw136@ucsd.edu",
+  institute: Institute.UC_SAN_DIEGO,
+};
+
+export const QIN_DENG: Participant = {
+  name: "Qin Deng",
+  link: "mailto:qindeng@mit.edu",
+  institute: Institute.MIT,
+};
+
+export const YIFAN_GUO: Participant = {
+  name: "Yifan Guo",
+  link: "mailto:yifag15@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const BRAIN_CHAO: Participant = {
+  name: "Brain Chao",
+  link: "mailto:brian5575@gmail.com",
+  institute: Institute.CORNELL_UNIVERSITY,
+};
+
+export const MOHAMMED_GHOMARI: Participant = {
+  name: "Mohammed Tewfik Ghomari",
+  link: "mailto:tewfikfr6@gmail.com",
+  institute: Institute.TLEMCEN,
+};
+
+export const ADAMS_DYLAN: Participant = {
+  name: "Adams Dylan",
+  link: "mailto:wda19@math.rutgers.edu",
+  institute: Institute.RUTGERS_UNIVERSITY,
+};
+
+export const ISMAIL_ALI: Participant = {
+  name: "Ismail Ali",
+  link: "mailto:taqi@sci.kuniv.edu.kw",
+  institute: Institute.KUWAIT_U,
+};
+
+export const EVANGELOS_NASTAS: Participant = {
+  name: "Evangelos Nastas",
+  link: "mailto:evangelos.nastas@gmail.com",
+  institute: Institute.SUNY,
+};
+
+export const PAUL_MINTER: Participant = {
+  name: "Paul Minter",
+  link: "mailto:pm6978@princeton.edu",
+  institute: Institute.IAS_PRINCETON,
+};
+
+export const CEM_SAYAR: Participant = {
+  name: "Cem Sayar",
+  link: "mailto:csayer@fiu.edu",
+  institute: Institute.FIU_ITU,
+};
+
+export const YIZI_WANG: Participant = {
+  name: "Yizi Wang",
+  link: "yzwang@math.cuhk.edu.hk",
+  institute: Institute.CHINESE_U_OF_HK,
+};
+
+export const JONATHAN_KAY: Participant = {
+  name: "Jonathan Kay",
+  link: "jokay@ucsc.edu",
+  institute: Institute.UC_SANTA_CRUZ,
+};
+
+export const ZHENGYI_QI: Participant = {
+  name: "Zhengyi Qi",
+  link: "zqi34@ucsc.edu",
+  institute: Institute.UC_SANTA_CRUZ,
+};
+
+export const LIUWEI_GONG: Participant = {
+  name: "Liuwei Gong",
+  link: "lg689@math.rutgers.edu",
+  institute: Institute.RUTGERS_UNIVERSITY,
+};
+
+export const DAOYUAN_HAN: Participant = {
+  name: "Daoyuan Han",
+  link: "dah517@lehigh.edu",
+  institute: Institute.LEHIGH_UNIVERSITY,
+};
+
+export const PENG_LU: Participant = {
+  name: "Peng Lu",
+  link: "penglu@uoregon.edu",
+  institute: Institute.UNIVERSITY_OF_OREGON,
+};
+
+export const LIHAN_WANG: Participant = {
+  name: "Lihan Wang",
+  link: "lihan.wang@csulb.edu",
+  institute: Institute.CSULB,
+};
+
+export const ROBERT_GIANGREGORIO: Participant = {
+  name: "Robert Giangregorio",
+  link: "rgiangre@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const NIGUS_TEKLEHAYMANOT: Participant = {
+  name: "Nigus Teklehaymanot",
+  link: "teklehan@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const BEN_CHOW: Participant = {
+  name: "Bennett Chow",
+  link: "bechow@ucsd.edu",
+  institute: Institute.UC_SAN_DIEGO,
+};
+
+export const CHIFAI_CHAU: Participant = {
+  name: "Chi Fai Chau",
+  link: "chaucf@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const FRANKIE_XU: Participant = {
+  name: "Xiaodan (Frankie) Xu",
+  link: "xxu@csusm.edu",
+  institute: Institute.CSUSM,
+};
+
+export const ANTOINE_SONG: Participant = {
+  name: "Anroine Song",
+  link: "antoinesong@yahoo.fr",
+  institute: Institute.CALTECH,
+};
