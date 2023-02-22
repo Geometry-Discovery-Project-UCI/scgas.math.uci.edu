@@ -47,7 +47,7 @@
         >, {{ speech.title }}
       </div>
       <div class="divider"></div>
-      <p>{{ speech.abstract }}</p>
+      <p style="white-space: pre-line">{{ speech.abstract }}</p>
     </div>
   </div>
 </template>

@@ -88,7 +88,7 @@
                 "activity": "Richard Bamler",
                 "isSpeech": true,
                 "title": "Towards a theory of Ricci flow in dimension 4",
-                "abstract": "The Ricci flow (with surgery) has proven to be a powerful tool in the study of 3-dimensional topology — its most (need some edits here) "
+                "abstract": "The Ricci flow (with surgery) has proven to be a powerful tool in the study of 3-dimensional topology — its most prominent application being the verification of the Poincaré and Geometrization Conjectures by Perelman about 20 years ago. Since then further research has led to a satisfactory understanding of the flow and surgery process in dimension 3.\n\nRecently there has been some progress on Ricci flow in higher dimensions, in the form of a new compactness and partial regularity theory. This theory relies on a new geometric perspective on Ricci flows and provides a better understanding of the singularity formation and long-time behavior of the flow. In dimension 4, in particular, this theory may eventually open up the possibility of a surgery construction or a construction of a \"flow through singularities”.\n\nIn the first part of the talk, will describe this new theory, the new geometric intuition that lies behind it and its implications on the study of singularities in dimension 4. In the second part, I will present new work (joint with Eric Chen) that concerns the resolution of conical singularities."
             },
             {
                 "time": "4:00PM - 4:30PM",
