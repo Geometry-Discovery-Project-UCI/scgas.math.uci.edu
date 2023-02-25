@@ -833,3 +833,21 @@ export const ANTOINE_SONG: Participant = {
   link: "antoinesong@yahoo.fr",
   institute: Institute.CALTECH,
 };
+
+export const KUANHUI_LEE: Participant = {
+  name: "Kuan-hui Lee",
+  link: "kuanhuil@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const XUYANG_YU: Participant = {
+  name: "Xuyang Yu",
+  link: "xuyangyu@ucsb.edu",
+  institute: Institute.UC_SANTA_BARBARA,
+};
+
+export const FABIO_RICCI: Participant = {
+  name: "Fabio Ricci",
+  link: "fabio.ricci7@gmail.com",
+  institute: Institute.UC_SANTA_BARBARA,
+};
