@@ -41,7 +41,7 @@
   <div class="divider"></div>
   <h1>Titles and Abstracts <span v-if="isReleased">(Ordered by Time)</span></h1>
   <div>
-    <div v-for="speech in speeches" :key="speech.time">
+    <div v-for="speech in speechesOrdered" :key="speech.time">
       <div>
         <strong>{{ speech.activity }}</strong
         >, {{ speech.title }}
@@ -84,6 +84,13 @@ const speeches = [...firstDaySchedule, ...secondDaySchedule].filter(
   (i) => i.isSpeech
 );
 
+const speechesOrdered = speeches.sort((a, b) =>
+  a.activity
+    .split(" ")
+    .slice(-1)[0]
+    .localeCompare(b.activity.split(" ").slice(-1)[0])
+);
+
 export default defineComponent({
   setup: () => {
     return {
@@ -93,6 +100,7 @@ export default defineComponent({
       firstDaySchedule,
       secondDaySchedule,
       speeches,
+      speechesOrdered,
       isReleased: false,
     };
   },
