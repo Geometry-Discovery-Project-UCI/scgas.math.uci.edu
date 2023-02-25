@@ -137,10 +137,10 @@
             },
             {
                 "time": "11:30AM - 12:30PM",
-                "activity": "",
+                "activity": " Melissa Liu",
                 "isSpeech": true,
-                "title": "",
-                "abstract": ""
+                "title": "Higgs-Coulomb correspondence and wall-crossing in abelian gauged linear sigma models",
+                "abstract": "The underlying geometry of a gauged linear sigma model (GLSM) consists of a geometric invariant theory (GIT) quotient of a complex vector space by a reductive group G (the gauge group) and a G-invariant polynomial function (the superpotential) on the vector space. The Higgs-Coulomb correspondence relates (1) GLSM invariants which are virtual counts of holomorphic curves in the critical locus of the superpotential (Higgs branch), and (2) Mellin-Barnes type integrals on the Lie algebra of G (Coulomb branch). In this talk, I will describe the correspondence when G is a torus, and explain how to use the correspondence to study dependence of GLSM invariants on the stability condition. This is based on joint work with Konstantin Aleshkin."
             }
         ]
     },
