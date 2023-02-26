@@ -39,7 +39,7 @@
     </table>
   </div>
   <div class="divider"></div>
-  <h1>Titles and Abstracts <span v-if="isReleased">(Ordered by Time)</span></h1>
+  <h1>Titles and Abstracts <span v-if="isReleased"> </span></h1>
   <div>
     <div v-for="speech in speechesOrdered" :key="speech.time">
       <div>
@@ -101,7 +101,7 @@ export default defineComponent({
       secondDaySchedule,
       speeches,
       speechesOrdered,
-      isReleased: false,
+      isReleased: true,
     };
   },
 });
