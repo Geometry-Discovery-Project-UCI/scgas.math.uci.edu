@@ -15,9 +15,12 @@
       <tr v-for="event in firstDaySchedule" :key="event.time">
         <td class="scheduled-time">{{ event.time }}</td>
         <td>
-          <strong v-if="event.isSpeech">{{
-            isReleased ? event.activity : ""
-          }}</strong>
+          <span v-if="event.isSpeech">
+            <span v-if="isReleased">
+              <strong>{{ event.activity }}</strong
+              >, {{ event.title }}
+            </span>
+          </span>
           <span v-else>{{ event.activity }}</span>
         </td>
       </tr>
@@ -30,9 +33,12 @@
       <tr v-for="event in secondDaySchedule" :key="event.time">
         <td class="scheduled-time">{{ event.time }}</td>
         <td>
-          <strong v-if="event.isSpeech">{{
-            isReleased ? event.activity : ""
-          }}</strong>
+          <span v-if="event.isSpeech">
+            <span v-if="isReleased">
+              <strong>{{ event.activity }}</strong
+              >, {{ event.title }}
+            </span>
+          </span>
           <span v-else>{{ event.activity }}</span>
         </td>
       </tr>
