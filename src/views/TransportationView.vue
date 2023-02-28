@@ -25,20 +25,16 @@
       href="https://parking.uci.edu/maps/documents/2022-UCI-MainCampusMap.pdf"
       target="_blank"
       >campus map</a
-    >. An interactive map can be found
-    <a
-      href="http://www.parking.uci.edu/maps/imap.cfm?autolaunch=true&action=getDirections&lotId=31&buildingId=129&pt=V&pid=G3&pl=1&b=0&ik=0&cs=0&zw=0&pd=1"
-      target="_blank"
-      >here</a
-    >.
+    >. A bus map can be found
+    <a href="/pdfs/SCGAS.pdf" target="_blank">here</a>.
   </p>
   <p>
-    The parking structure that is closest to {{ seminarLocation.room }} is the
-    Anteater Parking Structure (APS). Single-day parking permits are available
-    for purchase online. On weekends, you can park in the general parking spots
-    with $13 one-day permit. For participants from other UC campuses, the
-    parking permit from your home institution may be valid at UC Irvine. Please
-    see the
+    The parking structure that is closest to {{ seminarLocation.room }} is
+    Parking Lot 16, with parking dispensor. Single-day parking permits are also
+    available for purchase online. On weekends, you can park in the general
+    parking spots with $13 one-day permit. For participants from other UC
+    campuses, the parking permit from your home institution may be valid at UC
+    Irvine. Please see the
     <a
       href="http://www.parking.uci.edu/permits/visitorpermits.cfm"
       target="_blank"
