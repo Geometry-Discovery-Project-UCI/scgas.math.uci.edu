@@ -27,7 +27,7 @@
       <a :href="registrationUrl" target="_blank">online registration form</a>.
     </p>
     <p>
-      There will be $20 registration fee to cover refreshments during the
+      There will be $10 registration fee to cover refreshments during the
       Saturday morning registration.
     </p>
   </div>

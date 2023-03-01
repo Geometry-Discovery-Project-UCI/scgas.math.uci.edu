@@ -851,3 +851,93 @@ export const FABIO_RICCI: Participant = {
   link: "fabio.ricci7@gmail.com",
   institute: Institute.UC_SANTA_BARBARA,
 };
+
+export const QIZHI_ZHAO: Participant = {
+  name: "Qizhi Zhao",
+  link: "qizhiz3@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const JOOHO_LEE: Participant = {
+  name: "Jooho Lee",
+  link: "joohol3@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const JUN_LING: Participant = {
+  name: "Jun Ling",
+  link: "junling8@gmail.com",
+  institute: Institute.UVU,
+};
+
+export const LERTPINYOWONG_POOM: Participant = {
+  name: "Lertpinyowong Poom",
+  link: "plertpin@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const JONATHAN_DELGADO: Participant = {
+  name: "Jonathan Delgado",
+  link: "jonathan.delgado@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const HAOYU_SUN: Participant = {
+  name: "Haoyu Sun",
+  link: "hkdavidsun@berkeley.edu",
+  institute: Institute.UT_AUSTIN,
+};
+
+export const JIAYIN_PAN: Participant = {
+  name: "Jiayin Pan",
+  link: "jpan53@ucsc.edu",
+  institute: Institute.UC_SANTA_CRUZ,
+};
+
+export const NICHOLAS_EDELEN: Participant = {
+  name: "Nicholas Edelen",
+  link: "nedelen@nd.edu",
+  institute: Institute.UNIVERSITY_OF_NOTRE_DAME,
+};
+
+export const HASAN_ELHASAN: Participant = {
+  name: "Hasan El-Hasan",
+  link: "helh001@ucr.edu",
+  institute: Institute.UC_RIVERSIDE,
+};
+
+export const YILIN_TSAI: Participant = {
+  name: "Yilin Tsai",
+  link: "tsaiy4@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const PONING_CHEN: Participant = {
+  name: "PoNing Chen",
+  link: "poningc@ucr.edu",
+  institute: Institute.UC_RIVERSIDE,
+};
+
+export const YIYUE_ZHANG: Participant = {
+  name: "Yiyue Zhang",
+  link: "yiyuez4@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const CONNOR_MOONEY: Participant = {
+  name: "Connor Mooney",
+  link: "mooneycr@math.uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const JOSHUA_JORDAN: Participant = {
+  name: "Joshua Jordan",
+  link: "jpjorda1@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const RYAN_ASCHOFF: Participant = {
+  name: "Ryan Aschoff",
+  link: "rasch001@ucr.edu",
+  institute: Institute.UC_RIVERSIDE,
+};

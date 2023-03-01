@@ -57,6 +57,9 @@ export enum Institute {
   CHINESE_U_OF_HK = "The Chinese University of Hong Kong",
   CSULB = "California State University at Long Beach",
   CSUSM = "California State University San Marcos",
+  UVU = "Utah Valley University",
+  UT_AUSTIN = "UT Austin",
+  UC_RIVERSIDE = "UC Riverside",
 }
 
 export interface Participant {
