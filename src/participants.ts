@@ -941,3 +941,39 @@ export const RYAN_ASCHOFF: Participant = {
   link: "rasch001@ucr.edu",
   institute: Institute.UC_RIVERSIDE,
 };
+
+export const YANG_YANG: Participant = {
+  name: "Yang Yang",
+  link: "y.yang@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const CAMILA_ALVAREZ: Participant = {
+  name: "Camila Alvarez ",
+  link: "calva041@ucr.edu",
+  institute: Institute.UC_RIVERSIDE,
+};
+
+export const BRYAN_DIMLER: Participant = {
+  name: "Bryan Dimler ",
+  link: "bdimler@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const Longsin_Li: Participant = {
+  name: "Longsin Li",
+  link: "longsinl@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const HANEAL_PAE: Participant = {
+  name: "Haneal Pae",
+  link: "hpae003@ucr.edu",
+  institute: Institute.UC_RIVERSIDE,
+};
+
+export const ALEX_TAO: Participant = {
+  name: "Alex Tao",
+  link: "ltao016@ucr.edu",
+  institute: Institute.UC_RIVERSIDE,
+};
