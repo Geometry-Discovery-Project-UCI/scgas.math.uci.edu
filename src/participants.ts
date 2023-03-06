@@ -949,13 +949,13 @@ export const YANG_YANG: Participant = {
 };
 
 export const CAMILA_ALVAREZ: Participant = {
-  name: "Camila Alvarez ",
+  name: "Camila Alvarez",
   link: "calva041@ucr.edu",
   institute: Institute.UC_RIVERSIDE,
 };
 
 export const BRYAN_DIMLER: Participant = {
-  name: "Bryan Dimler ",
+  name: "Bryan Dimler",
   link: "bdimler@uci.edu",
   institute: Institute.UC_IRVINE,
 };
