@@ -52,10 +52,7 @@
       <td>Mention "UCI"</td>
     </tr>
   </table>
-  <p>
-    These hotels all offer shuttle service to UCI campus, which is the easiest
-    way to commute.
-  </p>
+  <p></p>
   <h1>Restaurants</h1>
   <div id="restaurants">
     <table cellpadding="5">
