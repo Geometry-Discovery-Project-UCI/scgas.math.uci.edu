@@ -64,7 +64,8 @@
                 "activity": "Richard Bamler",
                 "isSpeech": true,
                 "title": "Towards a theory of Ricci flow in dimension 4",
-                "abstract": "The Ricci flow (with surgery) has proven to be a powerful tool in the study of 3-dimensional topology — its most prominent application being the verification of the Poincaré and Geometrization Conjectures by Perelman about 20 years ago. Since then further research has led to a satisfactory understanding of the flow and surgery process in dimension 3.\n\nRecently there has been some progress on Ricci flow in higher dimensions, in the form of a new compactness and partial regularity theory. This theory relies on a new geometric perspective on Ricci flows and provides a better understanding of the singularity formation and long-time behavior of the flow. In dimension 4, in particular, this theory may eventually open up the possibility of a surgery construction or a construction of a \"flow through singularities”.\n\nIn the first part of the talk, will describe this new theory, the new geometric intuition that lies behind it and its implications on the study of singularities in dimension 4. In the second part, I will present new work (joint with Eric Chen) that concerns the resolution of conical singularities."
+                "abstract": "The Ricci flow (with surgery) has proven to be a powerful tool in the study of 3-dimensional topology — its most prominent application being the verification of the Poincaré and Geometrization Conjectures by Perelman about 20 years ago. Since then further research has led to a satisfactory understanding of the flow and surgery process in dimension 3.\n\nRecently there has been some progress on Ricci flow in higher dimensions, in the form of a new compactness and partial regularity theory. This theory relies on a new geometric perspective on Ricci flows and provides a better understanding of the singularity formation and long-time behavior of the flow. In dimension 4, in particular, this theory may eventually open up the possibility of a surgery construction or a construction of a \"flow through singularities”.\n\nIn the first part of the talk, will describe this new theory, the new geometric intuition that lies behind it and its implications on the study of singularities in dimension 4. In the second part, I will present new work (joint with Eric Chen) that concerns the resolution of conical singularities.",
+                "videoUrl": "https://www.youtube.com/watch?v=dgLSqBOgm5c&list=PLQw7KTnzkpXeH_nClhuKcrCjuJCqvO9Rt&index=4&pp=iAQB"
             },
             {
                 "time": "12:00PM - 1:30PM",
@@ -76,7 +77,9 @@
                 "activity": "Otis Chodosh",
                 "isSpeech": true,
                 "title": "Generic regularity of area-minimizing hypersurfaces in 9 and 10 dimensions",
-                "abstract": " I will discuss work with Christos Mantoulidis and Felix Schulze showing that area-minimizing hypersurfaces in 9 and 10 dimensions are generically smooth."
+                "abstract": " I will discuss work with Christos Mantoulidis and Felix Schulze showing that area-minimizing hypersurfaces in 9 and 10 dimensions are generically smooth.",
+                "videoUrl": "https://www.youtube.com/watch?v=YaNt610aZis&list=PLQw7KTnzkpXeH_nClhuKcrCjuJCqvO9Rt&index=3&pp=iAQB"
+
             },
             {
                 "time": "2:30PM - 3:00PM",
@@ -85,7 +88,7 @@
             },
             {
                 "time": "3:00PM - 4:00PM",
-                "activity": " Melissa Liu",
+                "activity": "Melissa Liu",
                 "isSpeech": true,
                 "title": "Higgs-Coulomb correspondence and wall-crossing in abelian gauged linear sigma models",
                 "abstract": "The underlying geometry of a gauged linear sigma model (GLSM) consists of a geometric invariant theory (GIT) quotient of a complex vector space by a reductive group G (the gauge group) and a G-invariant polynomial function (the superpotential) on the vector space. The Higgs-Coulomb correspondence relates (1) GLSM invariants which are virtual counts of holomorphic curves in the critical locus of the superpotential (Higgs branch), and (2) Mellin-Barnes type integrals on the Lie algebra of G (Coulomb branch). In this talk, I will describe the correspondence when G is a torus, and explain how to use the correspondence to study dependence of GLSM invariants on the stability condition. This is based on joint work with Konstantin Aleshkin."
@@ -100,7 +103,8 @@
                 "activity": "Gábor Székelyhidi",
                 "isSpeech": true,
                 "title": "Minimal hypersurfaces with cylindrical tangent cones",
-                "abstract": "I will discuss recent results on minimal hypersurfaces with cylindrical tangent cones of the form C x R, where C is a minimal quadratic cone, such as the Simons cone over S^3 x S^3. I will talk about a uniqueness result for such tangent cones in a certain non-integrable situation, a precise description of such minimal hypersurfaces near the singular set under a symmetry assumption, and a Liouville type theorem for minimal surfaces lying on one side of a C x R. Some of this is joint work with Nick Edelen. "
+                "abstract": "I will discuss recent results on minimal hypersurfaces with cylindrical tangent cones of the form C x R, where C is a minimal quadratic cone, such as the Simons cone over S^3 x S^3. I will talk about a uniqueness result for such tangent cones in a certain non-integrable situation, a precise description of such minimal hypersurfaces near the singular set under a symmetry assumption, and a Liouville type theorem for minimal surfaces lying on one side of a C x R. Some of this is joint work with Nick Edelen.",
+                "videoUrl": "https://www.youtube.com/watch?v=XhetFhxtUf8&list=PLQw7KTnzkpXeH_nClhuKcrCjuJCqvO9Rt&index=2&pp=iAQB"
             },
             {
                 "time": "6:30PM - 9:30PM",
@@ -130,7 +134,8 @@
                 "activity": "Yang Li",
                 "isSpeech": true,
                 "title": "Metric SYZ conjecture",
-                "abstract": "The Strominger-Yau-Zaslow conjecture asks for the existence of special Lagrangian torus fibrations on Calabi-Yau manifolds near the large complex structure limit. I will discuss some recent progress on this, especially the case of the Fermat family of hypersurfaces."
+                "abstract": "The Strominger-Yau-Zaslow conjecture asks for the existence of special Lagrangian torus fibrations on Calabi-Yau manifolds near the large complex structure limit. I will discuss some recent progress on this, especially the case of the Fermat family of hypersurfaces.",
+                "videoUrl": "https://www.youtube.com/watch?v=S4LIpmi__f0&list=PLQw7KTnzkpXeH_nClhuKcrCjuJCqvO9Rt&index=5&pp=iAQB"
             },
             {
                 "time": "11:20AM - 11:30AM",
@@ -144,7 +149,8 @@
                 "activity": "Aaron Naber",
                 "isSpeech": true,
                 "title": "Manifold structure for top singular stratum with lower Ricci",
-                "abstract": "It has become standard to define and prove smoothness and regularity for regular points of solutions of nonlinear equations with finite energy, typically by use of a monotone quantity.  This setup extends to the case of noncollapsed spaces with lower Ricci curvature bounds, where one can show the regular set has a (topological) manifold structure.  Together with Brue and Semola we show the top boundary stratum S^{n-1} of the singular set must also be a manifold away from a set of codim 2.  Monotone quantities are not rigid identifiers of manifold points in this case, and the proof requires new techniques.  This in particular answers some conjectures of Kapovitch/Mondino.  Along the way we will study some other rigidity phenomena which behave as a boundary version of volume convergence."
+                "abstract": "It has become standard to define and prove smoothness and regularity for regular points of solutions of nonlinear equations with finite energy, typically by use of a monotone quantity.  This setup extends to the case of noncollapsed spaces with lower Ricci curvature bounds, where one can show the regular set has a (topological) manifold structure.  Together with Brue and Semola we show the top boundary stratum S^{n-1} of the singular set must also be a manifold away from a set of codim 2.  Monotone quantities are not rigid identifiers of manifold points in this case, and the proof requires new techniques.  This in particular answers some conjectures of Kapovitch/Mondino.  Along the way we will study some other rigidity phenomena which behave as a boundary version of volume convergence.",
+                "videoUrl": "https://youtu.be/_LUz0hvvqxo"
             }
            
             

@@ -17,7 +17,8 @@
         <td>
           <span v-if="event.isSpeech">
             <span v-if="isReleased">
-              <strong>{{ event.activity }}</strong
+              <a :href="event.videoUrl">
+                <strong>{{ event.activity }}</strong> </a
               >, {{ event.title }}
             </span>
           </span>
@@ -35,7 +36,8 @@
         <td>
           <span v-if="event.isSpeech">
             <span v-if="isReleased">
-              <strong>{{ event.activity }}</strong
+              <a :href="event.videoUrl">
+                <strong>{{ event.activity }}</strong></a
               >, {{ event.title }}
             </span>
           </span>
@@ -49,8 +51,10 @@
   <div>
     <div v-for="speech in speechesOrdered" :key="speech.time">
       <div>
-        <strong>{{ speech.activity }}</strong
-        >, {{ speech.title }}
+        <a :href="speech.videoUrl">
+          <strong>{{ speech.activity }}</strong
+          >, {{ speech.title }}</a
+        >
       </div>
       <div class="divider"></div>
       <p style="white-space: pre-line">{{ speech.abstract }}</p>
