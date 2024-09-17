@@ -435,6 +435,30 @@ export const ADRIAN_CHU: Participant = {
 export const YI_LAI: Participant = {
   name: "Yi Lai",
   link: "mailto:yilai@stanford.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const SIMON_BRENDLE: Participant = {
+  name: "Simon Brendle",
+  link: "mailto:sab2280@columbia.edu",
+  institute: Institute.COLUMBIA,
+};
+
+export const LANHSUAN_HUANG: Participant = {
+  name: "Lan-Hsuan Huang",
+  link: "mailto:lan-hsuan.huang@uconn.edu",
+  institute: Institute.UNIVERSITY_OF_CONNECTICUT,
+};
+
+export const PENGFEI_GUAN: Participant = {
+  name: "Pengfei Guan",
+  link: "mailto:pengfei.guan@mcgill.ca",
+  institute: Institute.MCGILL,
+};
+
+export const RYAN_UNGER: Participant = {
+  name: "Ryan Unger",
+  link: "mailto:runger@stanford.edu",
   institute: Institute.STANFORD,
 };
 

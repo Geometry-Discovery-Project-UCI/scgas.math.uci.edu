@@ -1,19 +1,16 @@
 {
-    "number": 28,
+    "number": 30,
     "duration": {
-        "from": "2023-03-04 00:00",
-        "to": "2023-03-05 00:00"
+        "from": "2025-02-08 00:00",
+        "to": "2025-02-09 00:00"
     },
     "speakers": [
-        "Richard Bamler",
-        "Otis Chodosh",
-        "Ailana Fraser",
-        "Yang Li",
-        "Melissa Liu",
-        "Aaron Naber",
-        "Gabor Szekelyhidi"
+        "Simon Brendle",
+        "Pengfei Guan",
+        "Lan-Hsuan Huang",
+        "Ryan Unger"
     ],
-    "registrationUrl": "https://forms.gle/J4rXoqBYd5iKpiRs7",
+    "registrationUrl": "",
     "posterUrl": "pdfs/2023_scgas_poster.pdf",
 
 
@@ -41,6 +38,7 @@
     "registrationEndsAt": "2023-01-16 00:00",
     "organizingCommittee": [
         "Zhiqin Lu",
+        "Yi Lai",
         "Richard Schoen",
         "Jeff Streets",
         "Li-sheng Tseng",
