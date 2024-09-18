@@ -407,6 +407,46 @@
       <li>Jian Song, Rutgers U</li>
       <li>Clifford Taubes, Harvard U</li>
     </ul>
+    <h2>
+      The 28th SCGAS, UCI, March 4-5, 2023 (<a
+        :href="XXVIIIposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
+    <ul>
+      <li>Richard Bamler, UC Berkeley</li>
+      <li>Otis Chodosh, Stanford U</li>
+      <li>Ailana Fraser, UBC</li>
+      <li>Yang Li, MIT</li>
+      <li>Chiu-Chu Melissa Liu, Columbia U</li>
+      <li>Aaron Naber, Northwestern</li>
+      <li>Gábor Székelyhidi, Northwestern</li>
+    </ul>
+    <h2>
+      The 29th SCGAS, UCI, April 13-14, 2024 (<a
+        :href="XXIXposterUrl"
+        class="hover-shadow"
+        target="_blank"
+        :style="{
+          color: 'black',
+        }"
+        >poster</a
+      >)
+    </h2>
+    <ul>
+      <li>Guido De Philippis, NYU</li>
+      <li>Bruce Kleiner, NYU</li>
+      <li>Yi Lai, Stanford</li>
+      <li>Bill Minicozzi, MIT</li>
+      <li>Song Sun, Berkeley / Zhejiang U</li>
+      <li>Guofang Wei, UCSB</li>
+      <li>Xin Zhou, Cornell</li>
+    </ul>
   </div>
 </template>
 
@@ -430,6 +470,8 @@ export default defineComponent({
       XXVposterUrl: config.XXVposterUrl,
       XXVIposterUrl: config.XXVIposterUrl,
       XXVIIposterUrl: config.XXVIIposterUrl,
+      XXVIIIposterUrl: config.XXVIIIposterUrl,
+      XXIXposterUrl: config.XXIXposterUrl,
     };
   },
 });

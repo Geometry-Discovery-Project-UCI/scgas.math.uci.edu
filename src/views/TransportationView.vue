@@ -22,11 +22,10 @@
     <a :href="seminarLocation.link">{{ seminarLocation.room }}</a>
     which you can locate on the
     <a
-      href="https://parking.uci.edu/maps/documents/2022-UCI-MainCampusMap.pdf"
+      href="https://web.communications.uci.edu/assets/email/dfa-tds/TDS-Website/maps/Main_UCI-Map-REV012520-24.pdf"
       target="_blank"
-      >campus map</a
-    >. A bus map can be found
-    <a href="/pdfs/SCGAS.pdf" target="_blank">here</a>.
+      >campus map (Building 419, Coordinates F5)</a
+    >.
   </p>
   <p>
     The parking structure that is closest to {{ seminarLocation.room }} is
