@@ -54,6 +54,12 @@ export const SIMON_BRENDLE: Participant = {
   institute: Institute.COLUMBIA,
 };
 
+export const ALICE_CHANG: Participant = {
+  name: "Alice Chang",
+  link: "mailto:syachang@math.princeton.edu",
+  institute: Institute.PRINCETON_UNIVERSITY,
+};
+
 export const LANHSUAN_HUANG: Participant = {
   name: "Lan-Hsuan Huang",
   link: "mailto:lan-hsuan.huang@uconn.edu",
@@ -64,6 +70,12 @@ export const PENGFEI_GUAN: Participant = {
   name: "Pengfei Guan",
   link: "mailto:pengfei.guan@mcgill.ca",
   institute: Institute.MCGILL,
+};
+
+export const CHRISTOS_MANTOULIDIS: Participant = {
+  name: "Christos Mantoulidis",
+  link: "mailto:christos.mantoulidis@rice.edu",
+  institute: Institute.RICE,
 };
 
 export const RYAN_UNGER: Participant = {
