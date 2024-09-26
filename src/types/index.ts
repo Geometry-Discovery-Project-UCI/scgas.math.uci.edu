@@ -61,6 +61,7 @@ export enum Institute {
   UVU = "Utah Valley University",
   UT_AUSTIN = "UT Austin",
   UC_RIVERSIDE = "UC Riverside",
+  RICE = "Rice University",
 }
 
 export interface Participant {
