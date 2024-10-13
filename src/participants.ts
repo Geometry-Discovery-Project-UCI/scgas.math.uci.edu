@@ -83,3 +83,39 @@ export const RYAN_UNGER: Participant = {
   link: "mailto:runger@stanford.edu",
   institute: Institute.STANFORD,
 };
+
+export const XIAOLONG_LI: Participant = {
+  name: "Xiaolong Li",
+  link: "mailto:xiaolong.li@wichita.edu",
+  institute: Institute.WICHITA_U,
+};
+
+export const YANGYANG_LI: Participant = {
+  name: "Yangyang Li",
+  link: "mailto:yangyangli@uchicago.edu",
+  institute: Institute.UNIVERSITY_OF_CHICAGO,
+};
+
+export const HAO_ZHUANG: Participant = {
+  name: "Hao Zhuang",
+  link: "mailto:hzhuang@wustl.edu",
+  institute: Institute.WASHINGTON_UNIVERSITY_ST_LOUIS,
+};
+
+export const YIQI_HUANG: Participant = {
+  name: "Yiqi Huang",
+  link: "mailto:yiqih777@mit.edu",
+  institute: Institute.MIT,
+};
+
+export const JIKANG_WANG: Participant = {
+  name: "Jikang Wang",
+  link: "mailto:wjk0@berkeley.edu",
+  institute: Institute.UC_BERKELEY,
+};
+
+export const BOGDAN_SUCEAVA: Participant = {
+  name: "Bogdan Suceavă",
+  link: "mailto:bsuceava@fullerton.edu",
+  institute: Institute.CSUF,
+};
