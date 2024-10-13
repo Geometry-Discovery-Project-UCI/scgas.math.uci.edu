@@ -681,7 +681,7 @@ export const YOOGMIN_PARK: Participant = {
 export const HAO_ZHUANG: Participant = {
   name: "Hao Zhuang",
   link: "mailto:hzhuang@wustl.edu",
-  institute: Institute.UNIVERSITY_OF_WASHINGTON_ST_LOUIS,
+  institute: Institute.WASHINGTON_UNIVERSITY_ST_LOUIS,
 };
 
 export const HUUN_JANG: Participant = {
