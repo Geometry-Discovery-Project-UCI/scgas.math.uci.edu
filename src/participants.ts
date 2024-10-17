@@ -84,6 +84,12 @@ export const RYAN_UNGER: Participant = {
   institute: Institute.STANFORD,
 };
 
+export const VALENTINO_TOSATTI: Participant = {
+  name: "Valentino Tosatti",
+  link: "mailto:tosatti@cims.nyu.edu",
+  institute: Institute.NYU,
+};
+
 export const XIAOLONG_LI: Participant = {
   name: "Xiaolong Li",
   link: "mailto:xiaolong.li@wichita.edu",
@@ -118,4 +124,34 @@ export const BOGDAN_SUCEAVA: Participant = {
   name: "Bogdan Suceavă",
   link: "mailto:bsuceava@fullerton.edu",
   institute: Institute.CSUF,
+};
+
+export const GUOFANG_WEI: Participant = {
+  name: "Guofang Wei",
+  link: "mailto: WEI@MATH.UCSB.EDU",
+  institute: Institute.UC_SANTA_BARBARA,
+};
+
+export const YUSEN_XIA: Participant = {
+  name: "Yusen Xia",
+  link: "mailto: yusen@ucsb.edu",
+  institute: Institute.UC_SANTA_BARBARA,
+};
+
+export const JONATHAN_ZHU: Participant = {
+  name: "Jonathan Zhu",
+  link: "mailto: jonozhu@uw.edu",
+  institute: Institute.UNIVERSITY_OF_WASHINGTON,
+};
+
+export const ELHASEN_HASAN: Participant = {
+  name: "El-Hasan Hasan",
+  link: "mailto: helh001@ucr.edu",
+  institute: Institute.UNIVERSITY_OF_WASHINGTON,
+};
+
+export const XU_LIANG: Participant = {
+  name: "El-Hasan Hasan",
+  link: "mailto: lix010@ucsd.edu",
+  institute: Institute.UC_SAN_DIEGO,
 };
