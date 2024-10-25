@@ -64,6 +64,10 @@ export enum Institute {
   UC_RIVERSIDE = "UC Riverside",
   RICE = "Rice University",
   NYU = "New York University",
+  UTK = "University of Tennessee",
+  JHU = "Johns-Hopkins University",
+  WISC = "University of Wisconsin",
+  UIUC = "University of Illinois at Urbana-Champion",
 }
 
 export interface Participant {

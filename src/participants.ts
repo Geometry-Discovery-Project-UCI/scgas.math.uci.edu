@@ -155,3 +155,135 @@ export const XU_LIANG: Participant = {
   link: "mailto: lix010@ucsd.edu",
   institute: Institute.UC_SAN_DIEGO,
 };
+
+export const KOIRALA_ROBERT: Participant = {
+  name: "Robert Koirala",
+  link: "mailto: rkoirala@ucsd.edu",
+  institute: Institute.UC_SAN_DIEGO,
+};
+
+export const TUERKOEN_MALIK: Participant = {
+  name: "Malik Tuerkoen",
+  link: "mailto: mmtuerkoen@ucsb.edu",
+  institute: Institute.UC_SANTA_BARBARA,
+};
+
+export const TPARISE_DAVIDE: Participant = {
+  name: "Davide Parise",
+  link: "mailto: dparise@ucsd.edu",
+  institute: Institute.UC_SAN_DIEGO,
+};
+
+export const XIANZHE_DAI: Participant = {
+  name: "Xianzhe Dai",
+  link: "mailto: DAI@MATH.UCSB.EDU",
+  institute: Institute.UC_SANTA_BARBARA,
+};
+
+export const BURNS_NATHAN: Participant = {
+  name: "Nathan Burns",
+  link: "mailto: nburns6@vols.utk.edu",
+  institute: Institute.UTK,
+};
+
+export const SARNATARO_LORENZO: Participant = {
+  name: "Lorenzo Sarnataro",
+  link: "mailto: lsarnataro.94@gmail.com",
+  institute: Institute.UNIVERSITY_OF_TORONTO,
+};
+
+export const YANG_YANG: Participant = {
+  name: "Yang Yang",
+  link: "mailto: yyang@jhu.edu",
+  institute: Institute.JHU,
+};
+
+export const DU_WENKUI: Participant = {
+  name: "Wenkui Du",
+  link: "mailto: duwenkui15@gmail.com",
+  institute: Institute.MIT,
+};
+
+export const DEBIN_LIU: Participant = {
+  name: "Debin Liu",
+  link: "mailto: debin_liu@ucsb.edu",
+  institute: Institute.UC_SANTA_BARBARA,
+};
+
+export const JINGZE_ZHU: Participant = {
+  name: "Jingze Zhu",
+  link: "mailto: zhujz@mit.edu",
+  institute: Institute.MIT,
+};
+
+export const YULUN_XU: Participant = {
+  name: "Yulun Xu",
+  link: "mailto: yulun.xu@stonybrook.edu",
+  institute: Institute.STONYBROOK_UNIVERSITY,
+};
+
+export const ZHAO_KAIWEI: Participant = {
+  name: "Kai-wei Zhao",
+  link: "mailto: kzhao4@nd.edu",
+  institute: Institute.UNIVERSITY_OF_NOTRE_DAME,
+};
+
+export const XU_KAI: Participant = {
+  name: "Kai Xu",
+  link: "mailto: kai.xu631@duke.edu",
+  institute: Institute.DUKE_UNIVERSITY,
+};
+
+export const YI_YUCHAO: Participant = {
+  name: "Yuchao Yi",
+  link: "mailto: yuyi@ucsd.edu",
+  institute: Institute.UC_SAN_DIEGO,
+};
+
+export const GUO_YIFAN: Participant = {
+  name: "Yifan Guo",
+  link: "mailto: yifag15@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const LEE_JOHYE: Participant = {
+  name: "Jihye Lee",
+  link: "mailto: jihye@ucsb.edu",
+  institute: Institute.UC_SANTA_BARBARA,
+};
+
+export const QI_SUN: Participant = {
+  name: "Qi Sun",
+  link: "mailto: qsun79@wisc.edu",
+  institute: Institute.WISC,
+};
+
+export const LING_JUN: Participant = {
+  name: "Jun Ling",
+  link: "mailto: junling8@gmail.com",
+  institute: Institute.UVU,
+};
+
+export const LEE_TANGKAI: Participant = {
+  name: "Tang-Kai Lee",
+  link: "mailto: tangkai@mit.edu",
+  institute: Institute.MIT,
+};
+
+export const RICCI_FABIO: Participant = {
+  name: "Fabio Ricci",
+  link: "mailto: fabioricci@ucsb.edu",
+  institute: Institute.UC_SANTA_BARBARA,
+};
+
+export const TAYLOR_ALEX: Participant = {
+  name: "Alex Taylor",
+  link: "mailto: alexrt526@gmail.com",
+  institute: Institute.UIUC,
+};
+
+export const TIAN_JUNHAO: Participant = {
+  name: "Junhao Tian",
+  link: "mailto: Junhao.tian@stonybrook.edu",
+  institute: Institute.STONYBROOK_UNIVERSITY,
+};
