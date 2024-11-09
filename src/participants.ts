@@ -287,3 +287,195 @@ export const TIAN_JUNHAO: Participant = {
   link: "mailto: Junhao.tian@stonybrook.edu",
   institute: Institute.STONYBROOK_UNIVERSITY,
 };
+
+export const CHEN_ERIC: Participant = {
+  name: "Eric Chen",
+  link: "mailto: ecchen@illinois.edu",
+  institute: Institute.UIUC,
+};
+
+export const SHENG_HONGYI: Participant = {
+  name: "Hongyi Sheng",
+  link: "mailto: hosheng@ucsd.edu",
+  institute: Institute.UC_SAN_DIEGO,
+};
+
+export const CHEN_JINGWEN: Participant = {
+  name: "Jingwen Chen",
+  link: "mailto: jingwch@sas.upenn.edu",
+  institute: Institute.UNIVERSITY_OF_PENNSYLVANIA,
+};
+
+export const HALIM_ABDUL: Participant = {
+  name: "Abdul Halim",
+  link: "mailto: abdul.halim@stud.uni-goettingen.de",
+  institute: Institute.GOTT,
+};
+
+export const HARMANDEEP_KAUR: Participant = {
+  name: "Kaur Harmandeep",
+  link: "mailto: harmandeepkaur1559@gmail.com",
+  institute: Institute.PUNJAB,
+};
+
+export const ZAIDI_ADEEBA: Participant = {
+  name: "Adeeba Zaidi",
+  link: "mailto: adeebazaidi.az25@gmail.com",
+  institute: Institute.PUNJAB,
+};
+
+export const CHEN_LETIAN: Participant = {
+  name: "Letian Chen",
+  link: "mailto: lchen63@utk.edu",
+  institute: Institute.UTK,
+};
+
+export const SHUTE_ERIK: Participant = {
+  name: "Erik Shute",
+  link: "mailto: shuteerik@ufl.edu",
+  institute: Institute.UFL,
+};
+
+export const DELGADO_JONATHAN: Participant = {
+  name: "Jonathan Delgado",
+  link: "mailto: jonathan.delgado@uci.edu",
+  institute: Institute.UC_IRVINE,
+};
+
+export const KIM_DAIN: Participant = {
+  name: "Dain Kim",
+  link: "mailto:dain0327@mit.edu",
+  institute: Institute.MIT,
+};
+
+export const LIN_CHAOMING: Participant = {
+  name: "Chao-ming Lin",
+  link: "mailto: lin.4579@osu.edu",
+  institute: Institute.THE_OHIO_STATE_UNIVERSITY,
+};
+
+export const LIU_HONGYI: Participant = {
+  name: "Hongyi Liu",
+  link: "mailto: hongyil@princeton.edu",
+  institute: Institute.PRINCETON_UNIVERSITY,
+};
+
+export const MATINPOUR_ELHAM: Participant = {
+  name: "Elham Matinpour",
+  link: "mailto: ematinp1@jhu.edu",
+  institute: Institute.JHU,
+};
+
+export const TSANG_TINYAU: Participant = {
+  name: "Tin Yau Tsang",
+  link: "mailto: tytsang@uci.edu",
+  institute: Institute.UBC,
+};
+
+export const GEVORGYAN_EDGAR: Participant = {
+  name: "Edgar Gevorgyan",
+  link: "mailto: eg61@rice.edu",
+  institute: Institute.RICE,
+};
+
+export const VOGIATZI_ARTEMIS: Participant = {
+  name: "Artemis Vogiatzi",
+  link: "mailto: aav@math.ku.dk",
+  institute: Institute.Copenhagen,
+};
+
+export const LEE_KAHHENG: Participant = {
+  name: "Kah Heng Lee",
+  link: "mailto: kl183@rice.edu",
+  institute: Institute.RICE,
+};
+
+export const LIU_JUNBANG: Participant = {
+  name: "Junbang Liu",
+  link: "mailto: junbang.liu@stonybrook.edu",
+  institute: Institute.STONYBROOK_UNIVERSITY,
+};
+
+export const LU_SIYUAN: Participant = {
+  name: "Siyuan Lu",
+  link: "mailto: siyuan.lu@mcmaster.ca",
+  institute: Institute.McM,
+};
+
+export const LIN_YUEHJU: Participant = {
+  name: "Yueh-Ju Lin",
+  link: "mailto: yueh-ju.lin@wichita.edu",
+  institute: Institute.WICHITA_U,
+};
+
+export const MITROVICH_JASON: Participant = {
+  name: "Jason Mitrovich",
+  link: "mailto: jmitrovi@nd.edu",
+  institute: Institute.UNIVERSITY_OF_NOTRE_DAME,
+};
+
+export const FRANCO_ATZIN: Participant = {
+  name: "Luis Atzin Franco Reyna",
+  link: "mailto: lfrancor@nd.edu",
+  institute: Institute.UNIVERSITY_OF_NOTRE_DAME,
+};
+
+export const WU_YUJIE: Participant = {
+  name: "Yujie Wu",
+  link: "mailto: yujiewu@stanford.edu",
+  institute: Institute.STANFORD,
+};
+
+export const XUE_HAOTIAN: Participant = {
+  name: "Haotian Xue",
+  link: "mailto: chuanmig@stanford.edu",
+  institute: Institute.STANFORD,
+};
+
+export const CHEN_YIJIA: Participant = {
+  name: "Yijia Chen",
+  link: "mailto: ychen548@uic.edu",
+  institute: Institute.UIC,
+};
+
+export const KLINGNER_TYSON: Participant = {
+  name: "Tyson Klingner",
+  link: "mailto: ychen548@uic.edu",
+  institute: Institute.UNIVERSITY_OF_WASHINGTON,
+};
+
+export const MOUADI_HASSAN: Participant = {
+  name: "Hassan Mouadi",
+  link: "mailto: h.mouadi@uiz.ac.ma",
+  institute: Institute.ZOHR,
+};
+
+export const DOAN_LAM: Participant = {
+  name: "Lam Doan",
+  link: "mailto: ldoan5@jhu.edu",
+  institute: Institute.JHU,
+};
+
+export const PODDAR_RAHUL: Participant = {
+  name: "Rahul Poddar",
+  link: "mailto: rahul27poddar@gmail.com",
+  institute: Institute.HARISH,
+};
+
+export const RESTREPO_DANIEL: Participant = {
+  name: "Daniel Restrepo",
+  link: "mailto: rahul27poddar@gmail.com",
+  institute: Institute.JHU,
+};
+
+export const KONG_WENRUI: Participant = {
+  name: "Wenrui Kong",
+  link: "mailto: wk805@nyu.edu",
+  institute: Institute.NYU,
+};
+
+export const YIN_ANDY: Participant = {
+  name: "Andy Yin",
+  link: "mailto: andyyin@stanford.edu",
+  institute: Institute.STANFORD,
+};

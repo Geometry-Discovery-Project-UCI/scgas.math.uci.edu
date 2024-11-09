@@ -408,7 +408,10 @@
       <li>Clifford Taubes, Harvard U</li>
     </ul>
     <h2>
-      The 28th SCGAS, UCI, March 4-5, 2023 (<a
+      <a href="https://scgas-2023.kiyo5hi.com">
+        The 28th SCGAS, UCI, March 4-5, 2023</a
+      >
+      (<a
         :href="XXVIIIposterUrl"
         class="hover-shadow"
         target="_blank"
@@ -470,6 +473,7 @@ export default defineComponent({
       XXVposterUrl: config.XXVposterUrl,
       XXVIposterUrl: config.XXVIposterUrl,
       XXVIIposterUrl: config.XXVIIposterUrl,
+      XXVIIIwebUrl: config.XXVIIIwebUrl,
       XXVIIIposterUrl: config.XXVIIIposterUrl,
       XXIXposterUrl: config.XXIXposterUrl,
     };
