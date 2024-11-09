@@ -17,6 +17,7 @@ export enum Institute {
   UNIVERSITY_OF_NOTRE_DAME = "University of Notre Dame",
   UNIVERSITY_OF_CONNECTICUT = "University of Connecticut",
   UNIVERSITY_OF_CHICAGO = "University of Chicago",
+  UIC = "University of Illinois, Chicago",
   LEHIGH_UNIVERSITY = "Lehigh University",
   UNIVERSITY_OF_WASHINGTON = "University of Washington",
   THE_OHIO_STATE_UNIVERSITY = "The Ohio State University",
@@ -55,6 +56,7 @@ export enum Institute {
   KUWAIT_U = "Kuwait University",
   SUNY = "State University of New York",
   FIU_ITU = "Florida International University / Istanbul Technical University",
+  UFL = "University of Florida",
   CHINESE_U_OF_HK = "The Chinese University of Hong Kong",
   CSULB = "California State University at Long Beach",
   CSUSM = "California State University San Marcos",
@@ -68,6 +70,12 @@ export enum Institute {
   JHU = "Johns-Hopkins University",
   WISC = "University of Wisconsin",
   UIUC = "University of Illinois at Urbana-Champion",
+  GOTT = "Georg-August-Universität Göttingen",
+  PUNJAB = "Central University of Punjab, Bathinda",
+  Copenhagen = "University of Copenhagen",
+  McM = "McMaster University",
+  ZOHR = "Ibn Zohr University, FPT",
+  HARISH = "Harish-Chandra Research Institute",
 }
 
 export interface Participant {

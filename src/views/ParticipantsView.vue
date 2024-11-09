@@ -1,6 +1,6 @@
 <template>
   <h1>Participants</h1>
-  (updated on 10/24/2024)
+  (updated on 11/09/2024)
 
   <br />
 
