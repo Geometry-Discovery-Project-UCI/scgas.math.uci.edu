@@ -1,7 +1,11 @@
 <template>
   <h1>Participants</h1>
-  (updated on 11/09/2024)
+  (Updated on 12/01/2024. Due to phishing attempts, the list will only contain
+  speakers and organizers. The full participant list will be posted after the
+  SCGAS event.)
 
+  <br />
+  <br />
   <br />
 
   <div id="participants">
