@@ -19,10 +19,7 @@
           ></b
         >
       </td>
-      <td>
-        Use conference code 14767 "SCGAS - Dept. of Math" to get the University
-        rate of $129 per night
-      </td>
+      <td>The code for getting the University rate will be announce soon.</td>
     </tr>
     <tr>
       <td>
