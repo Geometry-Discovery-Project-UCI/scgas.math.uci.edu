@@ -19,7 +19,7 @@
           ></b
         >
       </td>
-      <td>The code for getting the University rate will be announce soon.</td>
+      <td>The code for getting the University rate $139+tax is UCI-SCGAS.</td>
     </tr>
     <tr>
       <td>
