@@ -60,6 +60,12 @@ export const LANHSUAN_HUANG: Participant = {
   institute: Institute.UNIVERSITY_OF_CONNECTICUT,
 };
 
+export const ZHONGSHAN_AN: Participant = {
+  name: "Zhongshan An",
+  link: "",
+  institute: Institute.UMICH,
+};
+
 export const PENGFEI_GUAN: Participant = {
   name: "Pengfei Guan",
   link: "",

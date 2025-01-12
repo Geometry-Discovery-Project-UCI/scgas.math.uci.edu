@@ -76,6 +76,7 @@ export enum Institute {
   McM = "McMaster University",
   ZOHR = "Ibn Zohr University, FPT",
   HARISH = "Harish-Chandra Research Institute",
+  UMICH = "University of Michigan",
 }
 
 export interface Participant {
