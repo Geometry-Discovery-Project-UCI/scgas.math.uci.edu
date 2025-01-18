@@ -111,7 +111,7 @@ export default defineComponent({
       secondDaySchedule,
       speeches,
       speechesOrdered,
-      isReleased: false,
+      isReleased: true,
     };
   },
 });
