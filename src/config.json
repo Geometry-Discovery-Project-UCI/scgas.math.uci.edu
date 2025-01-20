@@ -144,10 +144,9 @@
             {
                 "time": "11:40AM - 12:30PM",
                 "activity": "Simon Brendle",
-                "isSpeech": false,
-                "title": "Manifold structure for top singular stratum with lower Ricci",
-                "abstract": "It has become standard to define and prove smoothness and regularity for regular points of solutions of nonlinear equations with finite energy, typically by use of a monotone quantity.  This setup extends to the case of noncollapsed spaces with lower Ricci curvature bounds, where one can show the regular set has a (topological) manifold structure.  Together with Brue and Semola we show the top boundary stratum S^{n-1} of the singular set must also be a manifold away from a set of codim 2.  Monotone quantities are not rigid identifiers of manifold points in this case, and the proof requires new techniques.  This in particular answers some conjectures of Kapovitch/Mondino.  Along the way we will study some other rigidity phenomena which behave as a boundary version of volume convergence.",
-                "videoUrl": "https://youtu.be/_LUz0hvvqxo"
+                "isSpeech": true,
+                "title": "Systolic inequalities and the Horowitz-Myers conjecture",
+                "abstract": "Let $n$ be an integer with $3 <= n <= 7$, and let $g$ be a Riemannian metric on $B^2 \times T^{n-2}$ with scalar curvature at least $-n(n-1)$. We establish an inequality relating the systole of the boundary to the infimum of the mean curvature on the boundary. As a consequence, we obtain a new positive energy theorem where equality holds for the Horowitz-Myers metrics. This is joint work with Pei-Ken Hung."
             }
            
             
