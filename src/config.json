@@ -79,11 +79,9 @@
             {
                 "time": "1:40PM - 2:30PM",
                 "activity": "Ryan Unger",
-                "isSpeech": false,
-                "title": "Generic regularity of area-minimizing hypersurfaces in 9 and 10 dimensions",
-                "abstract": " I will discuss work with Christos Mantoulidis and Felix Schulze showing that area-minimizing hypersurfaces in 9 and 10 dimensions are generically smooth.",
-                "videoUrl": "https://www.youtube.com/watch?v=YaNt610aZis&list=PLQw7KTnzkpXeH_nClhuKcrCjuJCqvO9Rt&index=3&pp=iAQB"
-
+                "isSpeech": true,
+                "title": "Extremal black hole formation as a critical phenomenon",
+                "abstract": "Extremal black holes are special solutions of Einstein’s equations which have absolute zero temperature in the thermodynamic analogy of black hole mechanics. In this talk, I will present a proof that extremal black holes arise on the critical threshold between dispersion and gravitational collapse. This constitutes the first rigorous result on the black hole formation threshold in general relativity. Joint work with Christoph Kehle (MIT)."
             },
             {
                 "time": "2:30PM - 3:00PM",
@@ -105,10 +103,9 @@
             {
                 "time": "4:20PM - 5:10PM",
                 "activity": "Alice Chang",
-                "isSpeech": false,
-                "title": "Minimal hypersurfaces with cylindrical tangent cones",
-                "abstract": "I will discuss recent results on minimal hypersurfaces with cylindrical tangent cones of the form C x R, where C is a minimal quadratic cone, such as the Simons cone over S^3 x S^3. I will talk about a uniqueness result for such tangent cones in a certain non-integrable situation, a precise description of such minimal hypersurfaces near the singular set under a symmetry assumption, and a Liouville type theorem for minimal surfaces lying on one side of a C x R. Some of this is joint work with Nick Edelen.",
-                "videoUrl": "https://www.youtube.com/watch?v=XhetFhxtUf8&list=PLQw7KTnzkpXeH_nClhuKcrCjuJCqvO9Rt&index=2&pp=iAQB"
+                "isSpeech": true,
+                "title": "On a problem of conformal fill in by Poincare Einstein metric ",
+                "abstract": "Given a manifold (M, h) of dimension n, when is it the boundary of a conformally compact Einstein manifold (X, g+), in the sense that there exists some defining function r on X so that r^2 g_+ is compact on the closure of X and r^2 g_+ restricted to M is the given metric h? The model example is the n-sphere as the conformal infinity of the hyperbolic (n+1) ball. In the special case when n = 3, one can formulate the problem as an Dirichlet to Neumann type inverse problem. In the talk, I will report on some progress made with Yuxin Ge on the issues of the ”compactness”, and as an application, the ”existence” and ”uniqueness’ of the fill in problem for a class of metrics of positive scalar curvature defined on the 3-sphere."
             }
     
            
@@ -129,10 +126,9 @@
             {
                 "time": "10:40AM - 11:30AM",
                 "activity": "Zhongshan An",
-                "isSpeech": false,
-                "title": "Metric SYZ conjecture",
-                "abstract": "The Strominger-Yau-Zaslow conjecture asks for the existence of special Lagrangian torus fibrations on Calabi-Yau manifolds near the large complex structure limit. I will discuss some recent progress on this, especially the case of the Fermat family of hypersurfaces.",
-                "videoUrl": "https://www.youtube.com/watch?v=S4LIpmi__f0&list=PLQw7KTnzkpXeH_nClhuKcrCjuJCqvO9Rt&index=5&pp=iAQB"
+                "isSpeech": true,
+                "title": "Einstein manifolds with boundary",
+                "abstract": "We will talk about existence of Einstein metrics on manifolds with boundary, while prescribing the induced conformal metric and mean curvature of the boundary. In dimension 3, this becomes the existence of conformal embeddings of surfaces into constant sectional curvature space forms, with prescribed mean curvature. We will show existence of such conformal embeddings near generic Einstein background. We will also discuss the existence question in higher dimensions, where things become more subtle and a stability boundary condition is used to construct metrics with nonpositive Einstein constant."
             },
             {
                 "time": "11:20AM - 11:30AM",
