@@ -57,11 +57,14 @@
         >
       </div>
       <div class="divider"></div>
-      <p style="white-space: pre-line">{{ speech.abstract }}</p>
+      <!-- <p style="white-space: pre-line">{{ speech.abstract }}</p> -->
+      <p
+        v-html="renderedAbstract(speech.abstract)"
+        class="abstract-content"
+      ></p>
     </div>
   </div>
 </template>
-
 <style>
 #program table {
   margin-left: auto;
@@ -72,37 +75,75 @@
 #program .scheduled-time {
   width: 150px;
 }
-</style>
+/* for katex style */
+#program .abstract-content {
+  white-space: pre-line;
+  word-wrap: break-word;
+  font-size: 1rem;
+  line-height: 1.5;
+}
 
+#program .abstract-content .katex {
+  font-size: 1em !important;
+}
+#program .abstract-content .katex-display {
+  display: block;
+  text-align: center;
+  margin: 10px 0;
+}
+</style>
+<!-- add katex -->
 <script lang="ts">
 import { defineComponent } from "vue";
 import config from "@/config.json";
-
-const formatter = new Intl.DateTimeFormat("us", {
-  month: "long",
-  year: "numeric",
-  day: "numeric",
-  weekday: "long",
-});
-
-const from = formatter.format(new Date(config.duration.from));
-const to = formatter.format(new Date(config.duration.to));
-
-const firstDaySchedule = config.schedule.firstDay;
-const secondDaySchedule = config.schedule.secondDay;
-const speeches = [...firstDaySchedule, ...secondDaySchedule].filter(
-  (i) => i.isSpeech
-);
-
-const speechesOrdered = speeches.sort((a, b) =>
-  a.activity
-    .split(" ")
-    .slice(-1)[0]
-    .localeCompare(b.activity.split(" ").slice(-1)[0])
-);
+import katex from "katex";
+import "katex/dist/katex.min.css";
 
 export default defineComponent({
-  setup: () => {
+  setup() {
+    const renderedAbstract = (abstract: string) => {
+      const formattedAbstract = abstract
+        .replace(/\n/g, " <br> ")
+        .replace(/\$(.*?)\$/g, (_, match) =>
+          katex.renderToString(match, {
+            throwOnError: false,
+            displayMode: false,
+            output: "html",
+          })
+        )
+        .replace(/\$\$(.*?)\$\$/g, (_, match) =>
+          katex.renderToString(match, {
+            throwOnError: false,
+            displayMode: true,
+            output: "html",
+          })
+        );
+
+      return formattedAbstract;
+    };
+    const formatter = new Intl.DateTimeFormat("us", {
+      month: "long",
+      year: "numeric",
+      day: "numeric",
+      weekday: "long",
+    });
+
+    const from = formatter.format(new Date(config.duration.from));
+    const to = formatter.format(new Date(config.duration.to));
+
+    const firstDaySchedule = config.schedule.firstDay;
+    const secondDaySchedule = config.schedule.secondDay;
+    const speeches = [...firstDaySchedule, ...secondDaySchedule].filter(
+      (i) => i.isSpeech
+    );
+
+    const speechesOrdered = speeches.sort((a, b) =>
+      a.activity
+        .split(" ")
+        .slice(-1)[0]
+        .localeCompare(b.activity.split(" ").slice(-1)[0])
+    );
+
     return {
       seminarLocation: config.location,
       from,
@@ -112,6 +153,7 @@ export default defineComponent({
       speeches,
       speechesOrdered,
       isReleased: true,
+      renderedAbstract,
     };
   },
 });
