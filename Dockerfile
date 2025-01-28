@@ -1,7 +1,12 @@
-FROM node:lts-slim
+FROM node:18.8
 
-COPY . /app
 WORKDIR /app
-RUN corepack enable && pnpm install
+COPY package.json pnpm-lock.yaml ./
+RUN npm install -g pnpm && pnpm install
 
-ENTRYPOINT [ "pnpm", "serve" ]
+COPY . .
+
+EXPOSE 8080
+
+CMD ["pnpm", "run", "serve"]
+
