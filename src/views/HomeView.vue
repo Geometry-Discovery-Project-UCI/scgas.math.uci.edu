@@ -6,7 +6,7 @@
       California Irvine on {{ from }} and {{ to }}.
     </p>
     <p>
-      Graduate students, recent Ph.D's, and under-represented minorities are
+      Graduate students and  recent Ph.D's  are
       especially encouraged to participate and apply for travel support.
     </p>
   </div>
@@ -21,7 +21,7 @@
   </div>
 
   <div>
-    <h1>Registration and Social Events</h1>
+    <h1>Registration</h1>
     <p>
       Conference participants are requested to register in advance using the
       <a :href="registrationUrl" target="_blank">online registration form</a>.
@@ -40,8 +40,7 @@
     </p>
     <p>
       The NSF funds provide support for the travel and conference expenses of
-      participants with priority given to graduate students, recent Ph.D's and
-      under-represented minorities. If you would like to apply for support,
+      participants with priority given to graduate students and recent Ph.D's. If you would like to apply for support,
       please register and request financial support using the online
       registration form before {{ registrationEndsAt }}.
     </p>
