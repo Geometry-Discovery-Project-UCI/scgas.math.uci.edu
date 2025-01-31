@@ -29,6 +29,9 @@
     <p>
       There will be $15 registration fee to cover refreshments during the
       Saturday morning registration.
+      <a :href="feeUrl" target="_blank">
+        Please pay the fee here using your credit card.</a
+      >
     </p>
   </div>
 
@@ -84,6 +87,7 @@ const from = formatter.format(new Date(config.duration.from));
 const to = formatter.format(new Date(config.duration.to));
 const speakers = getSortedSpeakers();
 const registrationUrl = config.registrationUrl;
+const feeUrl = config.feeUrl;
 const registrationEndsAt = formatter.format(
   new Date(config.registrationEndsAt)
 );
@@ -97,6 +101,7 @@ export default defineComponent({
       to,
       speakers,
       registrationUrl,
+      feeUrl,
       registrationEndsAt,
       organizingCommittee,
     };
