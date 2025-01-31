@@ -93,6 +93,7 @@
                 "isSpeech": true,
                 "title": "Immortal solutions of the Kähler-Ricci flow",
                 "abstract": "I will discuss the problem of understanding the long-time behavior of Ricci flow on a compact Kähler manifold, assuming that a solution exists for all positive time. Inspired by an analogy with the minimal model program in algebraic geometry, Song and Tian posed several conjectures which describe this behavior. I will report on recent work (joint with Hein and Lee) which confirms these conjectures."
+
             },
             {
                 "time": "3:50PM - 4:20PM",
@@ -104,7 +105,7 @@
                 "activity": "Alice Chang",
                 "isSpeech": true,
                 "title": "On a problem of conformal fill in by Poincare Einstein metric ",
-                "abstract": "Given a manifold (M, h) of dimension n, when is it the boundary of a conformally compact Einstein manifold (X, g+), in the sense that there exists some defining function r on X so that r^2 g_+ is compact on the closure of X and r^2 g_+ restricted to M is the given metric h? The model example is the n-sphere as the conformal infinity of the hyperbolic (n+1) ball. In the special case when n = 3, one can formulate the problem as an Dirichlet to Neumann type inverse problem. In the talk, I will report on some progress made with Yuxin Ge on the issues of the ”compactness”, and as an application, the ”existence” and ”uniqueness’ of the fill in problem for a class of metrics of positive scalar curvature defined on the 3-sphere."            }
+                "abstract": "Given a manifold <span v-katex>$(M, h)$</span> of dimension <span v-katex>$n$</span>, when is it the boundary of a conformally compact Einstein manifold <span v-katex>$(X, g_+)$</span>, in the sense that there exists some defining function <span v-katex>$r$</span> on <span v-katex>$X$</span>so that <span v-katex>$r^2 g_+$</span> is compact on the closure of <span v-katex>$X$</span> and <span v-katex>$r^2 g_+$</span> restricted to <span v-katex>$M$</span> is the given metric <span v-katex>$h$</span>? \n\nThe model example is the <span v-katex>$n$</span>-sphere as the conformal infinity of the hyperbolic <span v-katex>$(n+1)$</span> ball. In the special case when <span v-katex>$n=3$</span>,  one can formulate the problem as an Dirichlet to Neumann type inverse problem. In the talk, I will report on some progress made with Yuxin Ge on the issues of the ”compactness”, and as an application, the ``existence” and ”uniqueness’ of the fill in problem for a class of metrics of positive scalar curvature defined on the 3-sphere."            }
     
            
         ],
