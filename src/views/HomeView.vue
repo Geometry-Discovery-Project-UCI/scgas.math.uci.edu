@@ -29,6 +29,9 @@
     <p>
       There will be $15 registration fee to cover refreshments during the
       Saturday morning registration.
+      <a :href="feeUrl" target="_blank">
+        Please pay the fee here using your credit card.</a
+      >
     </p>
   </div>
 
