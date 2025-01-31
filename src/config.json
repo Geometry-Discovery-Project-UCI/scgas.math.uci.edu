@@ -70,8 +70,7 @@
                 "activity": "Pengfei Guan",
                 "isSpeech": true,
                 "title": "The Christoffel-Minkowski problems ",
-                "abstract": "The classical Christoffel-Minkowski problem is an inverse problem of prescribed area measures, which is associated to the Minkowski sum for convex bodies. There are corresponding problems related to other settings, e.g., $p$-sum and mixed bodies. The $L^p$-Minkowski problem is a special case which has attracted extensive attention where Monge-Ampere equation plays key role. The other cases are more challenging and less understood, the main issue is the convexity of solutions to Hessian type fully nonlinear equations.  We will discuss some recent progresses and related open problems."
-            },
+"abstract": "The classical Christoffel-Minkowski problem is an inverse problem of prescribed area measures, which is associated to the Minkowski sum for convex bodies. There are corresponding problems related to other settings, e.g., <span v-katex>$p$</span>-sum and mixed bodies. The <span v-katex>$L^p$</span>-Minkowski problem is a special case which has attracted extensive attention where Monge-Ampère equation plays a key role. The other cases are more challenging and less understood, the main issue is the convexity of solutions to Hessian type fully nonlinear equations. We will discuss some recent progresses and related open problems."            },
             {
                 "time": "11:45AM - 1:40PM",
                 "activity": "Lunch",
@@ -95,6 +94,7 @@
                 "isSpeech": true,
                 "title": "Immortal solutions of the Kähler-Ricci flow",
                 "abstract": "I will discuss the problem of understanding the long-time behavior of Ricci flow on a compact Kähler manifold, assuming that a solution exists for all positive time. Inspired by an analogy with the minimal model program in algebraic geometry, Song and Tian posed several conjectures which describe this behavior. I will report on recent work (joint with Hein and Lee) which confirms these conjectures."
+
             },
             {
                 "time": "3:50PM - 4:20PM",
@@ -106,8 +106,7 @@
                 "activity": "Alice Chang",
                 "isSpeech": true,
                 "title": "On a problem of conformal fill in by Poincare Einstein metric ",
-                "abstract": "Given a manifold (M, h) of dimension n, when is it the boundary of a conformally compact Einstein manifold (X, g+), in the sense that there exists some defining function r on X so that r^2 g_+ is compact on the closure of X and r^2 g_+ restricted to M is the given metric h? The model example is the n-sphere as the conformal infinity of the hyperbolic (n+1) ball. In the special case when n = 3, one can formulate the problem as an Dirichlet to Neumann type inverse problem. In the talk, I will report on some progress made with Yuxin Ge on the issues of the ”compactness”, and as an application, the ”existence” and ”uniqueness’ of the fill in problem for a class of metrics of positive scalar curvature defined on the 3-sphere."
-            }
+                "abstract": "Given a manifold <span v-katex>$(M, h)$</span> of dimension <span v-katex>$n$</span>, when is it the boundary of a conformally compact Einstein manifold <span v-katex>$(X, g_+)$</span>, in the sense that there exists some defining function <span v-katex>$r$</span> on <span v-katex>$X$</span>so that <span v-katex>$r^2 g_+$</span> is compact on the closure of <span v-katex>$X$</span> and <span v-katex>$r^2 g_+$</span> restricted to <span v-katex>$M$</span> is the given metric <span v-katex>$h$</span>? \n\nThe model example is the <span v-katex>$n$</span>-sphere as the conformal infinity of the hyperbolic <span v-katex>$(n+1)$</span> ball. In the special case when <span v-katex>$n=3$</span>,  one can formulate the problem as an Dirichlet to Neumann type inverse problem. In the talk, I will report on some progress made with Yuxin Ge on the issues of the ”compactness”, and as an application, the ``existence” and ”uniqueness’ of the fill in problem for a class of metrics of positive scalar curvature defined on the 3-sphere."            }
     
            
         ],
@@ -143,8 +142,7 @@
                 "activity": "Simon Brendle",
                 "isSpeech": true,
                 "title": "Systolic inequalities and the Horowitz-Myers conjecture",
-                "abstract": "Let $n$ be an integer with $3 <= n <= 7$, and let $g$ be a Riemannian metric on $B^2 \times T^{n-2}$ with scalar curvature at least $-n(n-1)$. We establish an inequality relating the systole of the boundary to the infimum of the mean curvature on the boundary. As a consequence, we obtain a new positive energy theorem where equality holds for the Horowitz-Myers metrics. This is joint work with Pei-Ken Hung."
-            }
+                "abstract": "Let <span v-katex>$n$</span> be an integer with <span v-katex>$3 \\leq n \\leq 7$</span>, and let <span v-katex>$g$</span> be a Riemannian metric on <span v-katex>$B^2 \\times T^{n-2}$</span> with scalar curvature at least <span v-katex>$-n(n-1)$</span>. We establish an inequality relating the systole of the boundary to the infimum of the mean curvature on the boundary. As a consequence, we obtain a new positive energy theorem where equality holds for the Horowitz-Myers metrics. This is joint work with Pei-Ken Hung."            }
            
             
           
