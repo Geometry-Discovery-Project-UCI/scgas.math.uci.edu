@@ -86,6 +86,7 @@ const from = formatter.format(new Date(config.duration.from));
 const to = formatter.format(new Date(config.duration.to));
 const speakers = getSortedSpeakers();
 const registrationUrl = config.registrationUrl;
+const feeUrl = config.feeUrl;
 const registrationEndsAt = formatter.format(
   new Date(config.registrationEndsAt)
 );
@@ -99,6 +100,7 @@ export default defineComponent({
       to,
       speakers,
       registrationUrl,
+      feeUrl,
       registrationEndsAt,
       organizingCommittee,
     };
