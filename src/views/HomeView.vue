@@ -5,10 +5,7 @@
       The {{ numberOfSeminar }} SCGAS will be held at the University of
       California Irvine on {{ from }} and {{ to }}.
     </p>
-    <p>
-      Graduate students and  recent Ph.D's  are
-      especially encouraged to participate and apply for travel support.
-    </p>
+  
   </div>
 
   <div>
@@ -60,7 +57,7 @@
 </template>
 
 <style>
-h1 {
+h1 { 
   font-size: 24px;
   margin-top: 0px;
 }
