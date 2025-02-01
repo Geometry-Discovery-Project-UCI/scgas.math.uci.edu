@@ -106,7 +106,7 @@
                 "activity": "Alice Chang",
                 "isSpeech": true,
                 "title": "On a problem of conformal fill in by Poincare Einstein metric ",
-                "abstract": "Given a manifold <span v-katex>$(M, h)$</span> of dimension <span v-katex>$n$</span>, when is it the boundary of a conformally compact Einstein manifold <span v-katex>$(X, g_+)$</span>, in the sense that there exists some defining function <span v-katex>$r$</span> on <span v-katex>$X$</span>so that <span v-katex>$r^2 g_+$</span> is compact on the closure of <span v-katex>$X$</span> and <span v-katex>$r^2 g_+$</span> restricted to <span v-katex>$M$</span> is the given metric <span v-katex>$h$</span>? \n\nThe model example is the <span v-katex>$n$</span>-sphere as the conformal infinity of the hyperbolic <span v-katex>$(n+1)$</span> ball. In the special case when <span v-katex>$n=3$</span>,  one can formulate the problem as an Dirichlet to Neumann type inverse problem. In the talk, I will report on some progress made with Yuxin Ge on the issues of the ”compactness”, and as an application, the ``existence” and ”uniqueness’ of the fill in problem for a class of metrics of positive scalar curvature defined on the 3-sphere."            }
+                "abstract": "Given a manifold <span v-katex>$(M, h)$</span> of dimension <span v-katex>$n$</span>, when is it the boundary of a conformally compact Einstein manifold <span v-katex>$(X, g_+)$</span>, in the sense that there exists some defining function <span v-katex>$r$</span> on <span v-katex>$X$</span>so that <span v-katex>$r^2 g_+$</span> is compact on the closure of <span v-katex>$X$</span> and <span v-katex>$r^2 g_+$</span> restricted to <span v-katex>$M$</span> is the given metric <span v-katex>$h$</span>? \n\nThe model example is the <span v-katex>$n$</span>-sphere as the conformal infinity of the hyperbolic <span v-katex>$(n+1)$</span> ball. In the special case when <span v-katex>$n=3$</span>,  one can formulate the problem as an Dirichlet to Neumann type inverse problem. In the talk, I will report on some progress made with Yuxin Ge on the issues of the ”compactness”, and as an application, the ”existence” and ”uniqueness’ of the fill in problem for a class of metrics of positive scalar curvature defined on the 3-sphere."            }
     
            
         ],
@@ -114,9 +114,9 @@
             {
                 "time": "9:30AM - 10:20AM",
                 "activity": "Christos Mantoulidis",
-                "isSpeech": false,
-                "title": "Stable minimal surfaces and applications",
-                "abstract": "I will discuss questions about stable minimal surfaces in Euclidean space and Riemannian manifolds, and give new perspectives and new results about manifolds with positive isotropic curvature."
+                "isSpeech": true,
+                "title": "Generic perturbations of mean curvature flows",
+                "abstract": "I will discuss work with O. Chodosh, K. Choi, and F. Schulze on perturbations of mean curvature flows near multiplicity-one  non-generic singular points, with particular focus on a recent simplified proof of Huisken's ”genericity” conjecture when combined with the Bamler--Kleiner resolution of the ”multiplicity-one” conjecture."
             },
             {
                 "time": "10:20AM - 10:40AM",
