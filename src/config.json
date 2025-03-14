@@ -16,6 +16,7 @@
     "registrationUrl": "https://forms.gle/GYSsgbQePdXbm3p96",
     "feeUrl": "https://secure.touchnet.net/C21570_ustores/web/store_main.jsp?STOREID=572&SINGLESTORE=true",
     "posterUrl": "pdfs/posters/2025-poster.pdf",
+    "Video": "https://www.josephcinemato.com",
 
 
     "XVIposterUrl": "pdfs/posters/2009-poster.pdf",
@@ -70,7 +71,8 @@
                 "activity": "Pengfei Guan",
                 "isSpeech": true,
                 "title": "The Christoffel-Minkowski problems ",
-"abstract": "The classical Christoffel-Minkowski problem is an inverse problem of prescribed area measures, which is associated to the Minkowski sum for convex bodies. There are corresponding problems related to other settings, e.g., <span v-katex>$p$</span>-sum and mixed bodies. The <span v-katex>$L^p$</span>-Minkowski problem is a special case which has attracted extensive attention where Monge-Ampère equation plays a key role. The other cases are more challenging and less understood, the main issue is the convexity of solutions to Hessian type fully nonlinear equations. We will discuss some recent progresses and related open problems."            },
+"abstract": "The classical Christoffel-Minkowski problem is an inverse problem of prescribed area measures, which is associated to the Minkowski sum for convex bodies. There are corresponding problems related to other settings, e.g., <span v-katex>$p$</span>-sum and mixed bodies. The <span v-katex>$L^p$</span>-Minkowski problem is a special case which has attracted extensive attention where Monge-Ampère equation plays a key role. The other cases are more challenging and less understood, the main issue is the convexity of solutions to Hessian type fully nonlinear equations. We will discuss some recent progresses and related open problems.",
+"videoUrl": "https://vimeo.com/josephcinemato/review/1064332760/471100e47c"  },
             {
                 "time": "11:45AM - 1:40PM",
                 "activity": "Lunch",
@@ -81,7 +83,8 @@
                 "activity": "Ryan Unger",
                 "isSpeech": true,
                 "title": "Extremal black hole formation as a critical phenomenon",
-                "abstract": "Extremal black holes are special solutions of Einstein’s equations which have absolute zero temperature in the thermodynamic analogy of black hole mechanics. In this talk, I will present a proof that extremal black holes arise on the critical threshold between dispersion and gravitational collapse. This constitutes the first rigorous result on the black hole formation threshold in general relativity. Joint work with Christoph Kehle (MIT)."
+                "abstract": "Extremal black holes are special solutions of Einstein’s equations which have absolute zero temperature in the thermodynamic analogy of black hole mechanics. In this talk, I will present a proof that extremal black holes arise on the critical threshold between dispersion and gravitational collapse. This constitutes the first rigorous result on the black hole formation threshold in general relativity. Joint work with Christoph Kehle (MIT).",
+                "videoUrl": "https://vimeo.com/josephcinemato/review/1064080036/fd94cc1ffd" 
             },
             {
                 "time": "2:30PM - 3:00PM",
@@ -93,8 +96,8 @@
                 "activity": "Valentino Tosatti",
                 "isSpeech": true,
                 "title": "Immortal solutions of the Kähler-Ricci flow",
-                "abstract": "I will discuss the problem of understanding the long-time behavior of Ricci flow on a compact Kähler manifold, assuming that a solution exists for all positive time. Inspired by an analogy with the minimal model program in algebraic geometry, Song and Tian posed several conjectures which describe this behavior. I will report on recent work (joint with Hein and Lee) which confirms these conjectures."
-
+                "abstract": "I will discuss the problem of understanding the long-time behavior of Ricci flow on a compact Kähler manifold, assuming that a solution exists for all positive time. Inspired by an analogy with the minimal model program in algebraic geometry, Song and Tian posed several conjectures which describe this behavior. I will report on recent work (joint with Hein and Lee) which confirms these conjectures.",
+                "videoUrl": "https://vimeo.com/josephcinemato/review/1064334111/e9cd157008"
             },
             {
                 "time": "3:50PM - 4:20PM",
@@ -106,7 +109,8 @@
                 "activity": "Alice Chang",
                 "isSpeech": true,
                 "title": "On a problem of conformal fill in by Poincare Einstein metric ",
-                "abstract": "Given a manifold <span v-katex>$(M, h)$</span> of dimension <span v-katex>$n$</span>, when is it the boundary of a conformally compact Einstein manifold <span v-katex>$(X, g_+)$</span>, in the sense that there exists some defining function <span v-katex>$r$</span> on <span v-katex>$X$</span>so that <span v-katex>$r^2 g_+$</span> is compact on the closure of <span v-katex>$X$</span> and <span v-katex>$r^2 g_+$</span> restricted to <span v-katex>$M$</span> is the given metric <span v-katex>$h$</span>? \n\nThe model example is the <span v-katex>$n$</span>-sphere as the conformal infinity of the hyperbolic <span v-katex>$(n+1)$</span> ball. In the special case when <span v-katex>$n=3$</span>,  one can formulate the problem as an Dirichlet to Neumann type inverse problem. In the talk, I will report on some progress made with Yuxin Ge on the issues of the ”compactness”, and as an application, the ”existence” and ”uniqueness’ of the fill in problem for a class of metrics of positive scalar curvature defined on the 3-sphere."            }
+                "abstract": "Given a manifold <span v-katex>$(M, h)$</span> of dimension <span v-katex>$n$</span>, when is it the boundary of a conformally compact Einstein manifold <span v-katex>$(X, g_+)$</span>, in the sense that there exists some defining function <span v-katex>$r$</span> on <span v-katex>$X$</span>so that <span v-katex>$r^2 g_+$</span> is compact on the closure of <span v-katex>$X$</span> and <span v-katex>$r^2 g_+$</span> restricted to <span v-katex>$M$</span> is the given metric <span v-katex>$h$</span>? \n\nThe model example is the <span v-katex>$n$</span>-sphere as the conformal infinity of the hyperbolic <span v-katex>$(n+1)$</span> ball. In the special case when <span v-katex>$n=3$</span>,  one can formulate the problem as an Dirichlet to Neumann type inverse problem. In the talk, I will report on some progress made with Yuxin Ge on the issues of the ”compactness”, and as an application, the ”existence” and ”uniqueness’ of the fill in problem for a class of metrics of positive scalar curvature defined on the 3-sphere.",
+            "videoUrl": "https://vimeo.com/josephcinemato/review/1064350793/b84ccf051a"           }
     
            
         ],
@@ -128,7 +132,8 @@
                 "activity": "Zhongshan An",
                 "isSpeech": true,
                 "title": "Einstein manifolds with boundary",
-                "abstract": "We will talk about existence of Einstein metrics on manifolds with boundary, while prescribing the induced conformal metric and mean curvature of the boundary. In dimension 3, this becomes the existence of conformal embeddings of surfaces into constant sectional curvature space forms, with prescribed mean curvature. We will show existence of such conformal embeddings near generic Einstein background. We will also discuss the existence question in higher dimensions, where things become more subtle and a stability boundary condition is used to construct metrics with nonpositive Einstein constant."
+                "abstract": "We will talk about existence of Einstein metrics on manifolds with boundary, while prescribing the induced conformal metric and mean curvature of the boundary. In dimension 3, this becomes the existence of conformal embeddings of surfaces into constant sectional curvature space forms, with prescribed mean curvature. We will show existence of such conformal embeddings near generic Einstein background. We will also discuss the existence question in higher dimensions, where things become more subtle and a stability boundary condition is used to construct metrics with nonpositive Einstein constant.",
+              "videoUrl":   "https://vimeo.com/josephcinemato/review/1064336099/918d0041db"
             },
             {
                 "time": "11:20AM - 11:30AM",
