@@ -5,7 +5,6 @@
       The {{ numberOfSeminar }} SCGAS will be held at the University of
       California Irvine on {{ from }} and {{ to }}.
     </p>
-  
   </div>
 
   <div>
@@ -40,9 +39,15 @@
     </p>
     <p>
       The NSF funds provide support for the travel and conference expenses of
-      participants with priority given to graduate students and recent Ph.D's. If you would like to apply for support,
-      please register and request financial support using the online
-      registration form before {{ registrationEndsAt }}.
+      participants with priority given to graduate students and recent Ph.D's.
+      If you would like to apply for support, please register and request
+      financial support using the online registration form before
+      {{ registrationEndsAt }}.
+    </p>
+    <p>
+      We also extend our thanks to our Media Sponsor,
+      <a :href="Video" target="_blank"> Joseph Cinemato</a>, and his company and
+      his company, Lanucana Studios, for their video recording support.
     </p>
   </div>
 
@@ -57,7 +62,7 @@
 </template>
 
 <style>
-h1 { 
+h1 {
   font-size: 24px;
   margin-top: 0px;
 }
@@ -84,6 +89,7 @@ const to = formatter.format(new Date(config.duration.to));
 const speakers = getSortedSpeakers();
 const registrationUrl = config.registrationUrl;
 const feeUrl = config.feeUrl;
+const Video = config.Video;
 const registrationEndsAt = formatter.format(
   new Date(config.registrationEndsAt)
 );
@@ -98,6 +104,7 @@ export default defineComponent({
       speakers,
       registrationUrl,
       feeUrl,
+      Video,
       registrationEndsAt,
       organizingCommittee,
     };
