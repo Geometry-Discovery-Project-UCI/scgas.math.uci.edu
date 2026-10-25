@@ -408,9 +408,7 @@
       <li>Clifford Taubes, Harvard U</li>
     </ul>
     <h2>
-      <a href="https://scgas-2023.kiyo5hi.com">
-        The 28th SCGAS, UCI, March 4-5, 2023</a
-      >
+      <a href="/archive/2023/"> The 28th SCGAS, UCI, March 4-5, 2023</a>
       (<a
         :href="XXVIIIposterUrl"
         class="hover-shadow"

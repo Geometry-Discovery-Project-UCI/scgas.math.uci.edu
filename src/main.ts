@@ -1,20 +1,13 @@
-import { createApp } from "vue";
-import App from "./App.vue";
-import router from "./router";
-import katex from "katex";
-import "katex/dist/katex.min.css";
+// Each archive boots its own frozen application and router. A document load is
+// required when entering or leaving an archive; links within it use Vue Router.
+const archive = window.location.pathname.match(
+  /^\/archive\/(2023|2025)(?:\/|$)/
+);
 
-const app = createApp(App);
-
-app.use(router);
-
-app.directive("katex", {
-  mounted(el) {
-    katex.render(el.innerText, el, {
-      throwOnError: false,
-      displayMode: false,
-    });
-  },
-});
-
-app.mount("#app");
+if (archive?.[1] === "2023") {
+  import(/* webpackChunkName: "archive-2023" */ "./archive/2023/main");
+} else if (archive?.[1] === "2025") {
+  import(/* webpackChunkName: "archive-2025" */ "./archive/2025/main");
+} else {
+  import(/* webpackChunkName: "current-seminar" */ "./bootstrap");
+}

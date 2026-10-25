@@ -1,4 +1,5 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router";
+import ArchiveView from "@/views/ArchiveView.vue";
 import HomeView from "@/views/HomeView.vue";
 import RegistrationView from "@/views/RegistrationView.vue";
 import ParticipantsView from "@/views/ParticipantsView.vue";
@@ -49,6 +50,11 @@ export const routes: Array<RouteRecordRaw & { hidden?: boolean }> = [
     name: "poster",
     path: "/poster",
     component: PosterView,
+  },
+  {
+    name: "archive",
+    path: "/archive",
+    component: ArchiveView,
   },
   {
     name: "reimbursement",

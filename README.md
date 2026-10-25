@@ -1,5 +1,8 @@
 # scgas
 
+Past seminars are available at `/archive`, with independent 2023 and 2025
+sites. See [archive maintenance notes](src/archive/README.md).
+
 ## Project setup
 ```
 pnpm install
