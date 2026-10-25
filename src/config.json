@@ -1,19 +1,13 @@
 {
-    "number": 30,
+    "number": 32,
     "duration": {
-        "from": "2025-02-08 00:00",
-        "to": "2025-02-09 00:00"
+        "from": "2027-02-13 00:00",
+        "to": "2027-02-14 23:59"
     },
     "speakers": [
-        "Simon Brendle",
-        "Alice Chang",
-        "Pengfei Guan",
-        "Zhongshan An",
-        "Christos Mantoulidis",
-        "Valentino Tosatti",
-        "Ryan Unger"
+       
     ],
-    "registrationUrl": "https://forms.gle/GYSsgbQePdXbm3p96",
+    "registrationUrl": "",
     "feeUrl": "https://secure.touchnet.net/C21570_ustores/web/store_main.jsp?STOREID=572&SINGLESTORE=true",
     "posterUrl": "pdfs/posters/2025-poster.pdf",
     "Video": "https://www.josephcinemato.com",
@@ -68,11 +62,12 @@
             },
             {
                 "time": "11:00AM - 11:50AM",
-                "activity": "Pengfei Guan",
-                "isSpeech": true,
+                "activity": "",
+                "isSpeech": false,
                 "title": "The Christoffel-Minkowski problems ",
-"abstract": "The classical Christoffel-Minkowski problem is an inverse problem of prescribed area measures, which is associated to the Minkowski sum for convex bodies. There are corresponding problems related to other settings, e.g., <span v-katex>$p$</span>-sum and mixed bodies. The <span v-katex>$L^p$</span>-Minkowski problem is a special case which has attracted extensive attention where Monge-Ampère equation plays a key role. The other cases are more challenging and less understood, the main issue is the convexity of solutions to Hessian type fully nonlinear equations. We will discuss some recent progresses and related open problems.",
-"videoUrl": "https://vimeo.com/josephcinemato/review/1064332760/471100e47c"  },
+                 "abstract": ""
+            },
+
             {
                 "time": "11:45AM - 1:40PM",
                 "activity": "Lunch",
@@ -80,8 +75,8 @@
             },
             {
                 "time": "1:40PM - 2:30PM",
-                "activity": "Ryan Unger",
-                "isSpeech": true,
+                "activity": "",
+                "isSpeech": false,
                 "title": "Extremal black hole formation as a critical phenomenon",
                 "abstract": "Extremal black holes are special solutions of Einstein’s equations which have absolute zero temperature in the thermodynamic analogy of black hole mechanics. In this talk, I will present a proof that extremal black holes arise on the critical threshold between dispersion and gravitational collapse. This constitutes the first rigorous result on the black hole formation threshold in general relativity. Joint work with Christoph Kehle (MIT).",
                 "videoUrl": "https://vimeo.com/josephcinemato/review/1064080036/fd94cc1ffd" 
@@ -94,7 +89,7 @@
             {
                 "time": "3:00PM - 3:50PM",
                 "activity": "Valentino Tosatti",
-                "isSpeech": true,
+                "isSpeech": false,
                 "title": "Immortal solutions of the Kähler-Ricci flow",
                 "abstract": "I will discuss the problem of understanding the long-time behavior of Ricci flow on a compact Kähler manifold, assuming that a solution exists for all positive time. Inspired by an analogy with the minimal model program in algebraic geometry, Song and Tian posed several conjectures which describe this behavior. I will report on recent work (joint with Hein and Lee) which confirms these conjectures.",
                 "videoUrl": "https://vimeo.com/josephcinemato/review/1064334111/e9cd157008"
@@ -106,8 +101,8 @@
             },
             {
                 "time": "4:20PM - 5:10PM",
-                "activity": "Alice Chang",
-                "isSpeech": true,
+                "activity": "",
+                "isSpeech": false,
                 "title": "On a problem of conformal fill in by Poincare Einstein metric ",
                 "abstract": "Given a manifold <span v-katex>$(M, h)$</span> of dimension <span v-katex>$n$</span>, when is it the boundary of a conformally compact Einstein manifold <span v-katex>$(X, g_+)$</span>, in the sense that there exists some defining function <span v-katex>$r$</span> on <span v-katex>$X$</span>so that <span v-katex>$r^2 g_+$</span> is compact on the closure of <span v-katex>$X$</span> and <span v-katex>$r^2 g_+$</span> restricted to <span v-katex>$M$</span> is the given metric <span v-katex>$h$</span>? \n\nThe model example is the <span v-katex>$n$</span>-sphere as the conformal infinity of the hyperbolic <span v-katex>$(n+1)$</span> ball. In the special case when <span v-katex>$n=3$</span>,  one can formulate the problem as an Dirichlet to Neumann type inverse problem. In the talk, I will report on some progress made with Yuxin Ge on the issues of the ”compactness”, and as an application, the ”existence” and ”uniqueness’ of the fill in problem for a class of metrics of positive scalar curvature defined on the 3-sphere.",
             "videoUrl": "https://vimeo.com/josephcinemato/review/1064350793/b84ccf051a"           }
@@ -117,10 +112,11 @@
         "secondDay": [
             {
                 "time": "9:30AM - 10:20AM",
-                "activity": "Christos Mantoulidis",
-                "isSpeech": true,
+                "activity": "",
+                "isSpeech": false,
                 "title": "Generic perturbations of mean curvature flows",
-                "abstract": "I will discuss work with O. Chodosh, K. Choi, and F. Schulze on perturbations of mean curvature flows near multiplicity-one  non-generic singular points, with particular focus on a recent simplified proof of Huisken's ”genericity” conjecture when combined with the Bamler--Kleiner resolution of the ”multiplicity-one” conjecture."
+                "abstract": ""
+
             },
             {
                 "time": "10:20AM - 10:40AM",
@@ -129,11 +125,11 @@
             },
             {
                 "time": "10:40AM - 11:30AM",
-                "activity": "Zhongshan An",
-                "isSpeech": true,
+                "activity": "",
+                "isSpeech": false,
                 "title": "Einstein manifolds with boundary",
-                "abstract": "We will talk about existence of Einstein metrics on manifolds with boundary, while prescribing the induced conformal metric and mean curvature of the boundary. In dimension 3, this becomes the existence of conformal embeddings of surfaces into constant sectional curvature space forms, with prescribed mean curvature. We will show existence of such conformal embeddings near generic Einstein background. We will also discuss the existence question in higher dimensions, where things become more subtle and a stability boundary condition is used to construct metrics with nonpositive Einstein constant.",
-              "videoUrl":   "https://vimeo.com/josephcinemato/review/1064336099/918d0041db"
+                "abstract": ""
+              
             },
             {
                 "time": "11:20AM - 11:30AM",
@@ -144,8 +140,8 @@
            
             {
                 "time": "11:40AM - 12:30PM",
-                "activity": "Simon Brendle",
-                "isSpeech": true,
+                "activity": "",
+                "isSpeech": false,
                 "title": "Systolic inequalities and the Horowitz-Myers conjecture",
                 "abstract": "Let <span v-katex>$n$</span> be an integer with <span v-katex>$3 \\leq n \\leq 7$</span>, and let <span v-katex>$g$</span> be a Riemannian metric on <span v-katex>$B^2 \\times T^{n-2}$</span> with scalar curvature at least <span v-katex>$-n(n-1)$</span>. We establish an inequality relating the systole of the boundary to the infimum of the mean curvature on the boundary. As a consequence, we obtain a new positive energy theorem where equality holds for the Horowitz-Myers metrics. This is joint work with Pei-Ken Hung."            }
            
