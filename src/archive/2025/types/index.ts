@@ -77,6 +77,8 @@ export enum Institute {
   ZOHR = "Ibn Zohr University, FPT",
   HARISH = "Harish-Chandra Research Institute",
   UMICH = "University of Michigan",
+  WARWICK_UNIVERSITY = "Warwick University",
+  UQAM = "Université du Québec à Montréal",
 }
 
 export interface Participant {

@@ -89,3 +89,33 @@ export const VALENTINO_TOSATTI: Participant = {
   link: "",
   institute: Institute.NYU,
 };
+
+export const VESTISLAV_APOSTOLOV: Participant = {
+  name: "Vestislav Apostolov",
+  link: "",
+  institute: Institute.UQAM,
+};
+
+export const TRISTAN_OZUCH_MEERSSEMAN: Participant = {
+  name: "Tristan Ozuch-Meersseman",
+  link: "",
+  institute: Institute.MIT,
+};
+
+export const FELIX_SCHULZE: Participant = {
+  name: "Felix Schulze",
+  link: "",
+  institute: Institute.WARWICK_UNIVERSITY,
+};
+
+export const NATASA_SESUM: Participant = {
+  name: "Nataša Šešum",
+  link: "",
+  institute: Institute.RUTGERS_UNIVERSITY,
+};
+
+export const ZHIHAN_WANG: Participant = {
+  name: "Zhihan Wang",
+  link: "",
+  institute: Institute.CORNELL_UNIVERSITY,
+};

@@ -33,6 +33,8 @@ export enum Institute {
   UNIVERSITY_OF_TORONTO = "University of Toronto",
   RUTGERS_UNIVERSITY = "Rutgers University",
   CORNELL_UNIVERSITY = "Cornell University",
+  WARWICK_UNIVERSITY = "University of Warwick",
+  UQAM = "Université du Québec à Montréal",
   SUN_YAT_SEN_UNIVERSITY_ZHUHAI = "Sun Yat-Sen University (Zhuhai)",
   ISTANBUL_TECHNICAL_UNIVERSITY = "İstanbul Technical University",
   STONYBROOK_UNIVERSITY = "Stony Brook University",
