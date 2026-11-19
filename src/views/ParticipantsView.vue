@@ -1,6 +1,6 @@
 <template>
   <h1>Participants</h1>
-  (Updated on 12/01/2024. Due to phishing attempts, the list will only contain
+  (Updated on 11/19/2026. Due to phishing attempts, the list will only contain
   speakers and organizers. The full participant list will be posted after the
   SCGAS event.)
 

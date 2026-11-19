@@ -42,54 +42,6 @@ export const YI_LAI: Participant = {
   institute: Institute.UC_IRVINE,
 };
 
-export const SIMON_BRENDLE: Participant = {
-  name: "Simon Brendle",
-  link: "",
-  institute: Institute.COLUMBIA,
-};
-
-export const ALICE_CHANG: Participant = {
-  name: "Alice Chang",
-  link: "",
-  institute: Institute.PRINCETON_UNIVERSITY,
-};
-
-export const LANHSUAN_HUANG: Participant = {
-  name: "Lan-Hsuan Huang",
-  link: "",
-  institute: Institute.UNIVERSITY_OF_CONNECTICUT,
-};
-
-export const ZHONGSHAN_AN: Participant = {
-  name: "Zhongshan An",
-  link: "",
-  institute: Institute.UMICH,
-};
-
-export const PENGFEI_GUAN: Participant = {
-  name: "Pengfei Guan",
-  link: "",
-  institute: Institute.MCGILL,
-};
-
-export const CHRISTOS_MANTOULIDIS: Participant = {
-  name: "Christos Mantoulidis",
-  link: "",
-  institute: Institute.RICE,
-};
-
-export const RYAN_UNGER: Participant = {
-  name: "Ryan Unger",
-  link: "",
-  institute: Institute.STANFORD,
-};
-
-export const VALENTINO_TOSATTI: Participant = {
-  name: "Valentino Tosatti",
-  link: "",
-  institute: Institute.NYU,
-};
-
 export const VESTISLAV_APOSTOLOV: Participant = {
   name: "Vestislav Apostolov",
   link: "",
@@ -118,4 +70,10 @@ export const ZHIHAN_WANG: Participant = {
   name: "Zhihan Wang",
   link: "",
   institute: Institute.CORNELL_UNIVERSITY,
+};
+
+export const PEIKEN_HUNG: Participant = {
+  name: "Pei-Ken Hung",
+  link: "",
+  institute: Institute.UIUC,
 };
