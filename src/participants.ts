@@ -77,3 +77,9 @@ export const PEIKEN_HUNG: Participant = {
   link: "",
   institute: Institute.UIUC,
 };
+
+export const RONAN_CONLON: Participant = {
+  name: "Ronan Conlon",
+  link: "",
+  institute: Institute.UT_DALLAS,
+};
