@@ -83,3 +83,9 @@ export const RONAN_CONLON: Participant = {
   link: "",
   institute: Institute.UT_DALLAS,
 };
+
+export const TAMAS_DAVAS: Participant = {
+  name: "Tamás Darvas",
+  link: "",
+  institute: Institute.UNIVERSITY_OF_MARYLAND,
+};
